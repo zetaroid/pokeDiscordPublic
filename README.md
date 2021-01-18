@@ -15,3 +15,7 @@
 ## How To Play
 1. Use command !start to start a sesesion
 2. React to emoji to play the game
+
+## Errors
+* If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
+[Rayquaza Error](https://i.imgur.com/oujR9ek.png)
