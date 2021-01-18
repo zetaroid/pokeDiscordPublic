@@ -13,11 +13,11 @@
   * usage: "!mi Tackle"
   
 ## How To Play
-1. Use command !start to start a sesesion
-2. React to emoji to play the game
-3. You have limited stamina per day. The following actions use 1 stamina:
-  * making progress on a route
-  * choosing to encounter a wild Pokemon on a route you have completed
+* Use command !start to start a sesesion
+* React to emoji to play the game
+* You have limited stamina per day. The following actions use 1 stamina:
+ * making progress on a route
+ * choosing to encounter a wild Pokemon on a route you have completed
 
 ## Errors
 * If the game crashes, an error message will be sent. Please report this to the developer.
