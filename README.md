@@ -17,5 +17,6 @@
 2. React to emoji to play the game
 
 ## Errors
+* If the game crashes, an error message will be sent. Please report this to the developer.
 * If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
