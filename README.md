@@ -16,8 +16,8 @@
 * Use command !start to start a sesesion
 * React to emoji to play the game
 * You have limited stamina per day. The following actions use 1 stamina:
- * making progress on a route
- * choosing to encounter a wild Pokemon on a route you have completed
+  * making progress on a route
+  * choosing to encounter a wild Pokemon on a route you have completed
 
 ## Errors
 * If the game crashes, an error message will be sent. Please report this to the developer.
