@@ -18,6 +18,7 @@
   * verbage: !f [location name]
   * usage: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
+  * *DO TO ME BEING BAD, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
   
 ## How To Play
 * Use command !start to start a sesesion
