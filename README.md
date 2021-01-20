@@ -11,6 +11,13 @@
 * !moveInfo (alias: !mi)
   * verbage: !mi [move name]
   * usage: "!mi Tackle"
+* !profile (alias: !p)
+  * verbage: !p [trainer name]
+  * usage: "!p Zetaroid"
+* !fly (alias: !f)
+  * verbage: !f [location name]
+  * usage: "!f Littleroot Town"
+  * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
   
 ## How To Play
 * Use command !start to start a sesesion
