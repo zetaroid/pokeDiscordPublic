@@ -19,6 +19,8 @@
   * usage: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
   * *DO TO ME BEING BAD, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
+* !getStamina
+  * trades 2000 Pokedollars for 1 stamina
   
 ## How To Play
 * Use command !start to start a sesesion
