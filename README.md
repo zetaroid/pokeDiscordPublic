@@ -58,3 +58,5 @@
   * Idk, ask me though!
 * Why doesn't [insert move here] work as intended?
   * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
+* HELP! My game is really laggy!
+  * I blame my free hosting site. Or Discord. Or Notch from Minecraft.
