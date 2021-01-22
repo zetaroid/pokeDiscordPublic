@@ -8,6 +8,9 @@
 * !nickname (alias: !nn)
   * verbage: "!nn [party number] [nickname]"
   * usage: "!nn 3 Kippy"
+* !swapMoves (alias: !sm)
+  * verbage: "!sm [party number] [move slot 1] [move slot 2"
+  * usage: "!nn 3 2 4"
 * !moveInfo (alias: !mi)
   * verbage: !mi [move name]
   * usage: "!mi Tackle"
@@ -19,6 +22,11 @@
   * usage: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
   * *DO TO ME BEING BAD, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
+* !trade (alias: !t)
+  * verage: !t [your party number to trade] [trainer name to trade with]
+  * usage: !t 2 zetaroid
+  * follow the bot's prompts to confirm trade
+  * *DO TO ME BEING BAD, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * !getStamina
   * trades 2000 Pokedollars for 1 stamina
   
