@@ -52,7 +52,7 @@
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can you add gen4-7 Pokemon?
   * Not immediately evident, but I already did.
-* Is there a move relearned/TM's?
+* Is there a move relearner/TM's?
   * I have plans...stay tuned.
 * Can X be added?
   * Idk, ask me though!
