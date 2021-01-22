@@ -44,6 +44,10 @@
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
 
 ## FAQ
+* How long did this take to make?
+  * Two weeks worth of my time outside of work and sleep.
+* Why isn't this a publicly available bot?
+  * Besides not having a proper place to host it, this bot has a major limitation where more than 1 concurrent user at a time slows it down significantly.
 * Will PVP be added?
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can X be added?
