@@ -50,6 +50,10 @@
   * Besides not having a proper place to host it, this bot has a major limitation where more than 1 concurrent user at a time slows it down significantly.
 * Will PVP be added?
   * Probably not, I made a mess of the battle code and not sure it's feasible.
+* Can you add gen4-7 Pokemon?
+  * Not immediately evident, but I already did.
+* Is there a move relearned/TM's?
+  * I have plans...stay tuned.
 * Can X be added?
   * Idk, ask me though!
 * Why doesn't [insert move here] work as intended?
