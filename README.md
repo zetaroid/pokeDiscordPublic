@@ -42,3 +42,11 @@
 * If the game crashes, an error message will be sent. Please report this to the developer.
 * If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
+
+## FAQ
+* Will PVP be added?
+  * Probably not, I made a mess of the battle code and not sure it's feasible.
+* Can X be added?
+  * Idk, ask me though!
+* Why doesn't [insert move here] work as intended?
+  * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
