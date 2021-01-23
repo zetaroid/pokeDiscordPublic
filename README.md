@@ -62,4 +62,4 @@
   * I blame my free hosting site. Or Discord. Or Notch from Minecraft.
   
 ## Trailer
-![Trailer](https://www.youtube.com/watch?v=E7rX2d7W3XI&feature=youtu.be)
+https://www.youtube.com/watch?v=E7rX2d7W3XI&feature=youtu.be
