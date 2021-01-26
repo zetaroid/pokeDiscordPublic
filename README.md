@@ -44,6 +44,8 @@
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
 
 ## FAQ
+* HELP! I don't know where to go next!?
+  * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
 * How long did this take to make?
   * Two weeks worth of my time outside of work and sleep.
 * Why isn't this a publicly available bot?
