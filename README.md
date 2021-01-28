@@ -54,6 +54,8 @@
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can you add gen4-7 Pokemon?
   * Not immediately evident, but I already did.
+* Can you add gen8 Pokemon?
+  * No
 * Is there a move relearner/TM's?
   * Lilycove City has both.
 * Can X be added?
