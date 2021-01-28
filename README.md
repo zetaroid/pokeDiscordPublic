@@ -62,6 +62,7 @@
   * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
 * HELP! My game is really laggy!
   * I blame Discord. Or Notch from Minecraft.
-  
+* What is the shiny rate?
+  * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
 ## Trailer
 https://www.youtube.com/watch?v=E7rX2d7W3XI
