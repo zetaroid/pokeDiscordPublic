@@ -66,8 +66,31 @@
   * I blame Discord. Or Notch from Minecraft.
 * What is the shiny rate?
   * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
+* Can I catch legendaries?
+  * Yes. And you can shiny hunt them.
 * HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
   * I just beat the first gym...
     * Head to Route 104 S and go to Dewford Town
+  * I just beat the fourth gym....
+    * Head back to Petalburg City for the 5th gym (oh...and good luck)
+  * I just beat the fifth gym...
+    * Go back to Mauville City and continue from Route 118 W to Route 118 E now that you can surf
+  * I just got to Lilycove City!
+    * Go back to Route 121 and head south to 122 and into Mt. Pyre if you haven't yet
+  * I just did Mt. Pyre!
+    * Go back to Jagged Pass and enter the Magma Hideout
+  * I just did the Magma Hideout!
+    * Go to Lilycove City and enter the Aqua Hideout!
+  * I just beat the Mossdeep Gym but don't know what to do next!
+    * Optional: Take down team Magma for good in the Space Center
+    * Mandatory: Follow Team Aqua to route 128, go under, and go to Seafloor Cavern to stop them
+  * I just beat Team Aqua in Seafloor Cavern!
+    * Go to Sootopolis City (route 126, dive, then back up)
+  * I just beat the Cave of Origin!
+    * Go to Sky Pillar (from Sootopolis -> Route 126 -> 127 -> ... -> 131 -> Sky Pillar)
+  * I just beat Sky Pillar!
+    * Go back to Sootopolis and take on the 8th gym
+  * I just beat the 8th gym!
+    * Go to Route 128 and head for Ever Grande City and the Pokemon League
 ## Trailer
 https://www.youtube.com/watch?v=E7rX2d7W3XI
