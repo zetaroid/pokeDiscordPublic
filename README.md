@@ -66,5 +66,8 @@
   * I blame Discord. Or Notch from Minecraft.
 * What is the shiny rate?
   * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
+* HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
+  * I just beat the first gym...
+    * Head to Route 104 S and go to Dewford Town
 ## Trailer
 https://www.youtube.com/watch?v=E7rX2d7W3XI
