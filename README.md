@@ -102,6 +102,12 @@
 ## Trailer
 https://www.youtube.com/watch?v=E7rX2d7W3XI
 
+## Legendary Calendar
+### Even Months
+![even months](https://i.imgur.com/p1Ih9zA.png)
+### Odd Months
+![odd months](https://i.imgur.com/SdNXuns.png)
+
 ## Errors
 * If the game crashes and you are unable to start again after 5 minutes have passed, the game is borked for you and the developer will have to fix it.
 * If the game crashes, an error message will be sent. Please report this to the developer.
