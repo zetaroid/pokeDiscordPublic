@@ -111,6 +111,7 @@ https://www.youtube.com/watch?v=E7rX2d7W3XI
 ## Errors
 * If the game crashes and you are unable to start again after 5 minutes have passed, the game is borked for you and the developer will have to fix it.
 * If the game crashes, an error message will be sent. Please report this to the developer.
+* If you see Missingno...this is an error.
 * If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
 
