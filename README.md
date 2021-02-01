@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=E7rX2d7W3XI
 
 ## Legendary Calendar (post-game Abandoned Ship off of Route 108)
 ### Even Months
-![even months](https://i.imgur.com/p1Ih9zA.png)
+![even months](https://i.imgur.com/5QVxaeP.png)
 ### Odd Months
 ![odd months](https://i.imgur.com/SdNXuns.png)
 
