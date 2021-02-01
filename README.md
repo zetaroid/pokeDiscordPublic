@@ -5,6 +5,8 @@
   * start a new session. Will be active until AFK for 5 minutes.
 * !guide
   * links to this guide
+* !map (alias: !m)
+  * displays region map
 * !nickname (alias: !nn)
   * verbage: "!nn [party number] [nickname]"
   * usage: "!nn 3 Kippy"
