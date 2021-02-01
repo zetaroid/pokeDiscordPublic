@@ -102,7 +102,7 @@
 ## Trailer
 https://www.youtube.com/watch?v=E7rX2d7W3XI
 
-## Legendary Calendar
+## Legendary Calendar (post-game Abandoned Ship off of Route 108)
 ### Even Months
 ![even months](https://i.imgur.com/p1Ih9zA.png)
 ### Odd Months
