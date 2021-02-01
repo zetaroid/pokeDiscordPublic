@@ -99,8 +99,7 @@
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
 
-## Trailer
-(click the image)
+## Trailer (click the image)
 [![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
 
 ## Legendary Calendar (post-game Abandoned Ship off of Route 108)
