@@ -28,6 +28,8 @@
   * follow the bot's prompts to confirm trade
   * *DO TO ME BEING BAD, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * !getStamina
+  * verbage: !gs [amount]
+  * usage: "!gs 2" = grants 2 stamina at a cost of $4000
   * trades 2000 Pokedollars for 1 stamina
   
 ## How To Play
