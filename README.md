@@ -23,12 +23,12 @@
   * verbage: !f [location name]
   * usage: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
-  * *DO TO ME BEING BAD, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
+  * *DO TO ME BEING LAZY, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
 * !trade (alias: !t)
   * verage: !t [your party number to trade] [trainer name to trade with]
   * usage: !t 2 zetaroid
   * follow the bot's prompts to confirm trade
-  * *DO TO ME BEING BAD, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
+  * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * !getStamina (alias: !gs)
   * verbage: !gs [amount]
   * usage: "!gs 2" = grants 2 stamina at a cost of $4000
