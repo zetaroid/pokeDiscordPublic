@@ -2,7 +2,7 @@
 
 ## Commands:
 * !start (alias: !s)
-  * start a new session. Will be active until AFK for 5 minutes.
+  * start a new session. Will be active until AFK for 2 minutes.
 * !guide
   * links to this guide
 * !map
