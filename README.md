@@ -1,5 +1,12 @@
 # How To Use and Play PokeDiscord
 
+## Features
+* Battle, catch, and trade Pokemon from across 7 generations
+* Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
+* A full RPG experience
+* End game content including: shiny hunting, legendary battles/catching, trading, and more to come!
+* Majority of game is played command free after typing "!start". Interact with the world through emojis.
+
 ## Commands:
 * !start (alias: !s)
   * start a new session. Will be active until AFK for 2 minutes.
