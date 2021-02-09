@@ -19,7 +19,7 @@
   * usage: "!nn 3 Kippy"
 * !swapMoves (alias: !sm)
   * verbage: "!sm [party number] [move slot 1] [move slot 2"
-  * usage: "!nn 3 2 4"
+  * usage: "!sm 3 2 4"
 * !moveInfo (alias: !mi)
   * verbage: !mi [move name]
   * usage: "!mi Tackle"
@@ -42,7 +42,7 @@
   * trades 2000 Pokedollars for 1 stamina
   
 ## How To Play
-* Use command !start to start a sesesion
+* Use command !start to start a session
 * React to emoji to play the game
 * You have limited stamina per day. The following actions use 1 stamina:
   * making progress on a route
@@ -76,10 +76,10 @@
   * I just beat the 8th gym!
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
-    * Shiny hunt
+    * Shiny hunt (1/100 odds, wow!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
+    * Gym leader rematches (lv 70 and lv 100)
     * Take on a harder elite 4 for an extra challenge
-    * Coming soon: Safari Zone
     * Coming soon: Battle Tower
 
 ## FAQ
