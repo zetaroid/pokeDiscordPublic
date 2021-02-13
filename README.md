@@ -85,8 +85,8 @@
 ## FAQ
 * How long did this take to make?
   * Two weeks worth of my time outside of work and sleep.
-* Why isn't this a publicly available bot?
-  * It's not ready.
+* Why isn't this a publicly available bot for my own server?
+  * It's not ready. But you can play the game here: https://discord.gg/HwYME4Vwj9
 * Will PVP be added?
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can you add gen4-7 Pokemon?
