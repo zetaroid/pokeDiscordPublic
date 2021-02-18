@@ -4,8 +4,15 @@
 * Battle, catch, and trade Pokemon from across 7 generations
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
-* End game content including: shiny hunting, legendary battles/catching, trading, and more to come!
+* End game content including: shiny hunting, legendary battles/catching, trading, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
+
+## How To Play
+* Use command !start to start a session
+* React to emoji to play the game
+* You have limited stamina per day. The following actions use 1 stamina:
+  * making progress on a route
+  * choosing to encounter a wild Pokemon on a route you have completed
 
 ## Commands:
 * !start (alias: !s)
@@ -15,38 +22,76 @@
 * !map
   * displays region map
 * !nickname (alias: !nn)
+  * sets a Pokemon's nickname
   * verbage: "!nn [party number] [nickname]"
   * usage: "!nn 3 Kippy"
 * !swapMoves (alias: !sm)
+  * swaps two of a Pokemon's move slots
   * verbage: "!sm [party number] [move slot 1] [move slot 2"
   * usage: "!sm 3 2 4"
 * !moveInfo (alias: !mi)
+  * displays information about a move
   * verbage: !mi [move name]
   * usage: "!mi Tackle"
 * !profile (alias: !p)
+  * displays a trainer's profile
   * verbage: !p [trainer name]
   * usage: "!p Zetaroid"
 * !fly (alias: !f)
+  * fly to a given location
   * verbage: !f [location name]
   * usage: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
-  * *DO TO ME BEING LAZY, YOU CAN ONLY FLY WHEN A SESSION IS NOT ACTIVE*
 * !trade (alias: !t)
+  * trade with another trainer on the server
   * verage: !t [your party number to trade] [trainer name to trade with]
   * usage: !t 2 zetaroid
   * follow the bot's prompts to confirm trade
   * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * !getStamina (alias: !gs)
+  * trade Pokedollars for stamina (in stamina enabled server only)
   * verbage: !gs [amount]
   * usage: "!gs 2" = grants 2 stamina at a cost of $4000
   * trades 2000 Pokedollars for 1 stamina
-  
-## How To Play
-* Use command !start to start a session
-* React to emoji to play the game
-* You have limited stamina per day. The following actions use 1 stamina:
-  * making progress on a route
-  * choosing to encounter a wild Pokemon on a route you have completed
+* !battleTrainer
+  * battle an NPC copy of a trainer on the server
+  * verbage: !battleTrainer [trainer name]
+  * usage: "!battleTrainer zetaroid"
+* !evolve
+  * evolves a Pokemon capable of evolution
+  * verbage: !evolve [party number]
+  * usage: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
+* !unevolve
+  * unevolves a Pokemon capable of un-evolution
+  * verbage: !unevolve [party number]
+  * usage: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
+* !setAlteringCave
+  * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
+  * verbage: !setAlteringCave [Pokemon name]
+  * usage: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (earned from Battle Tower)
+
+## Admin Only Commands
+* !disableStamina
+  * disables the stamina system for the server
+* !enableStamina
+  * enables the stamina system for the server
+* !grantItem
+  * grants a given trainer an item in specifed amount
+  * verbage: !grantItem [item] [amount] [trainer name]
+  * usage: "!grantItem Pokeball 2 zetaroid" = grants zetaroid 2x Pokeball
+* !removeItem
+  * grants a given trainer an item in specifed amount
+  * verbage: !removeItem [item] [amount] [trainer name]
+  * usage: "!removeItem Pokeball 2 zetaroid" = removes 2x Pokeball from zetaroid
+* !grantStamina
+  * grants a given trainer stamina in specifed amount
+  * verbage: !grantStamina [amount] [trainer name]
+  * usage: "!grantStamina 2 zetaroid" = grants zetaroid 2x stamina
+* !setLocation
+  * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
+  * verbage: !setLocation [trainer DISCORD NAME] [location]
+  * usage: "!setLocation user#1234 Littleroot Town" = sets user#1234's location to Littleroot Town
+* There are other commands under !help, but they are DEV ONLY and will not work for you.
 
 ## Guide
 * HELP! I don't know where to go next!?
@@ -77,20 +122,22 @@
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
     * Shiny hunt (1/100 odds, wow!)
+    * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
     * Gym leader rematches (lv 70 and lv 100)
     * Take on a harder elite 4 for an extra challenge
-    * Coming soon: Battle Tower
+    * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
 
 ## FAQ
 * How long did this take to make?
-  * Two weeks worth of my time outside of work and sleep.
-* Why isn't this a publicly available bot for my own server?
-  * It's not ready. But you can play the game here: https://discord.gg/HwYME4Vwj9
+  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out.
+* How do I play this?
+  * You can play the game here: https://discord.gg/HwYME4Vwj9
+  * You can add this bot to your own server here: https://discord.com/api/oauth2/authorize?client_id=800207357622878229&permissions=64576&scope=bot
 * Will PVP be added?
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can you add gen4-7 Pokemon?
-  * Not immediately evident, but I already did.
+  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. You can find them in Altering Cave and can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
 * Can you add gen8 Pokemon?
   * No
 * Is there a move relearner/TM's?
@@ -100,11 +147,13 @@
 * Why doesn't [insert move here] work as intended?
   * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
 * HELP! My game is really laggy!
-  * I blame Discord. Or Notch from Minecraft.
+  * I blame Discord. Or Notch from Minecraft. But most likely Discord's fault.
 * What is the shiny rate?
   * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
+* How do I save?
+  * Game autosaves.
 
 ## Trailer (click the image)
 [![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
