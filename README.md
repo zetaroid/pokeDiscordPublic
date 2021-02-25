@@ -37,6 +37,10 @@
   * displays a trainer's profile
   * verbage: !p [trainer name]
   * usage: "!p Zetaroid"
+* !trainerCard (alias: !tc)
+  * displays a trainer's trainer card
+  * verbage: !tc [trainer name]
+  * usage: "!tc Zetaroid"
 * !fly (alias: !f)
   * fly to a given location
   * verbage: !f [location name]
