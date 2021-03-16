@@ -48,7 +48,7 @@
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
 * !trade (alias: !t)
   * trade with another trainer on the server
-  * verage: !t [your party number to trade] [trainer name to trade with]
+  * verbage: !t [your party number to trade] [trainer name to trade with]
   * usage: !t 2 zetaroid
   * follow the bot's prompts to confirm trade
   * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
@@ -73,6 +73,10 @@
   * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
   * verbage: !setAlteringCave [Pokemon name]
   * usage: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (earned from Battle Tower)
+* !resetSave
+  * resets your save file PERMANENTLY
+  * will prompt for confirmation before deleting
+  * usage: !resetSave
 
 ## Admin Only Commands
 * !disableStamina
