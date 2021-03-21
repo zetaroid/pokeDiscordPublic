@@ -7,7 +7,7 @@
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Guide](#Guide)
 * [FAQ](#FAQ)
-* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar-[post-game-Abandoned-Ship-off-of-Route-108])
+* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Errors](#Errors)
 
 ## Features
@@ -180,7 +180,8 @@
 * How do I save?
   * Game autosaves.
 
-## Legendary Calendar [post-game Abandoned Ship off of Route 108]
+## Legendary Calendar
+* for post-game Mysterious Portal in Abandoned Ship off of Route 108
 ### Even Months
 ![even months](https://i.imgur.com/5QVxaeP.png)
 ### Odd Months
