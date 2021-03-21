@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * [Features](#Features)
-* [Trailer](#Trailer-%28click-the-image%29)
 * [How To Play](#How-To-Play)
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
@@ -181,7 +180,7 @@
 * How do I save?
   * Game autosaves.
 
-## Legendary Calendar (post-game Abandoned Ship off of Route 108)
+## Legendary Calendar [post-game Abandoned Ship off of Route 108]
 ### Even Months
 ![even months](https://i.imgur.com/5QVxaeP.png)
 ### Odd Months
