@@ -7,7 +7,7 @@
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Guide](#Guide)
 * [FAQ](#FAQ)
-* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
+* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar-[post-game-Abandoned-Ship-off-of-Route-108])
 * [Errors](#Errors)
 
 ## Features
