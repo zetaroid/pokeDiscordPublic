@@ -7,10 +7,15 @@
 * End game content including: shiny hunting, legendary battles/catching, trading, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
+![PokeDiscord Banner](https://i.imgur.com/Ei2W65P.png)
+
+## Trailer (click the image)
+[![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
+
 ## How To Play
 * Use command !start to start a session
 * React to emoji to play the game
-* You have limited stamina per day. The following actions use 1 stamina:
+* You have limited stamina per day (unless disabled by server admin). The following actions use 1 stamina:
   * making progress on a route
   * choosing to encounter a wild Pokemon on a route you have completed
 
@@ -48,7 +53,7 @@
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
 * !trade (alias: !t)
   * trade with another trainer on the server
-  * verbage: !t [your party number to trade] [trainer name to trade with]
+  * verage: !t [your party number to trade] [trainer name to trade with]
   * usage: !t 2 zetaroid
   * follow the bot's prompts to confirm trade
   * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
@@ -144,9 +149,6 @@
 ## FAQ
 * How long did this take to make?
   * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out.
-* How do I play this?
-  * You can play the game here: https://discord.gg/HwYME4Vwj9
-  * You can add this bot to your own server here: https://discord.com/api/oauth2/authorize?client_id=800207357622878229&permissions=64576&scope=bot
 * Will PVP be added?
   * Probably not, I made a mess of the battle code and not sure it's feasible.
 * Can you add gen4-7 Pokemon?
@@ -168,9 +170,6 @@
 * How do I save?
   * Game autosaves.
 
-## Trailer (click the image)
-[![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
-
 ## Legendary Calendar (post-game Abandoned Ship off of Route 108)
 ### Even Months
 ![even months](https://i.imgur.com/5QVxaeP.png)
@@ -183,4 +182,3 @@
 * If you see Missingno...this is an error.
 * If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
 ![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
-
