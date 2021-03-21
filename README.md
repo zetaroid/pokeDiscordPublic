@@ -1,7 +1,7 @@
 # How To Use and Play PokeDiscord
 
 ## Table of Contents
-[Features](#Features)
+[Features](#Features)\n
 [Trailer](#Trailer)
 [How To Play](#How To Play)
 [Commands](#Commands)
