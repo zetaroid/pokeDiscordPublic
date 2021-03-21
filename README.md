@@ -1,15 +1,15 @@
 # How To Use and Play PokeDiscord
 
 ## Table of Contents
-[Features](#Features)\n
-[Trailer](#Trailer)
-[How To Play](#How To Play)
-[Commands](#Commands)
-[Admin ONLY Command](#Admin Only Commands)
-[Guide](#Guide)
-[FAQ](#FAQ)
-[Legendary Calendar for Abandoned Ship](#Legendary Calendar)
-[Errors](#Errors)
+* [Features](#Features)
+* [Trailer](#Trailer)
+* [How To Play](#How To Play)
+* [Commands](#Commands)
+* [Admin ONLY Command](#Admin Only Commands)
+* [Guide](#Guide)
+* [FAQ](#FAQ)
+* [Legendary Calendar for Abandoned Ship](#Legendary Calendar)
+* [Errors](#Errors)
 
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations
