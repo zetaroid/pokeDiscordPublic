@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Features](#Features)
-* [Trailer](#Trailer-(click-the-image))
+* [Trailer](#Trailer-%28click-the-image%29)
 * [How To Play](#How-To-Play)
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
