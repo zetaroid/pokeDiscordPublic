@@ -188,6 +188,7 @@
 ![odd months](https://i.imgur.com/SdNXuns.png)
 
 ## Errors
+* For support and reporting errors, please use the "support" channel in the [support server](https://discord.gg/HwYME4Vwj9)
 * If the game crashes and you are unable to start again after 5 minutes have passed, the game is borked for you and the developer will have to fix it.
 * If the game crashes, an error message will be sent. Please report this to the developer.
 * If you see Missingno...this is an error.
