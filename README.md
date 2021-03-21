@@ -1,5 +1,8 @@
 # How To Use and Play PokeDiscord
 
+## Table of Contents
+[Features](#Features)
+
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
