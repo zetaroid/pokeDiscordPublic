@@ -2,13 +2,13 @@
 
 ## Table of Contents
 * [Features](#Features)
-* [Trailer](#Trailer)
-* [How To Play](#How To Play)
+* [Trailer](#Trailer-(click-the-image))
+* [How To Play](#How-To-Play)
 * [Commands](#Commands)
-* [Admin ONLY Command](#Admin Only Commands)
+* [Admin ONLY Command](#Admin-Only-Commands)
 * [Guide](#Guide)
 * [FAQ](#FAQ)
-* [Legendary Calendar for Abandoned Ship](#Legendary Calendar)
+* [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Errors](#Errors)
 
 ## Features
