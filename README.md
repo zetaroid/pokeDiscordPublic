@@ -162,7 +162,7 @@
 * What is stamina?
   * Stamina is a feature disabled by default, but can be enabled by server admins.
   * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
-  * Stamian refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
+  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
 * Can you add gen4-7 Pokemon?
   * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. You can find them in Altering Cave and can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
 * Can you add gen8 Pokemon?
