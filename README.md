@@ -25,9 +25,6 @@
 ## How To Play
 * Use command !start to start a session
 * React to emoji to play the game
-* You have limited stamina per day (unless disabled by server admin). The following actions use 1 stamina:
-  * making progress on a route
-  * choosing to encounter a wild Pokemon on a route you have completed
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 5 minutes, otherwise it is 2 minutes.
 
 ## Commands:
