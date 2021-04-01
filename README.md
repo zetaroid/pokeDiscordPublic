@@ -155,6 +155,10 @@
   * resets your save file PERMANENTLY
   * will prompt for confirmation before deleting
   * usage: !resetSave
+* !endSession (alias: !es)
+  * ends your current seession
+  * can only be used while in the overworld (not in battle or other menus)
+  * usage: !endSession
 
 ## Admin Only Commands
 * !disableStamina
