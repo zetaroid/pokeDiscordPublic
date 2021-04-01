@@ -3,10 +3,10 @@
 ## Table of Contents
 * [Features](#Features)
 * [How To Play](#How-To-Play)
-* [Commands](#Commands)
-* [Admin ONLY Command](#Admin-Only-Commands)
 * [Guide](#Guide)
 * [FAQ](#FAQ)
+* [Commands](#Commands)
+* [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Errors](#Errors)
 
@@ -25,7 +25,72 @@
 ## How To Play
 * Use command !start to start a session
 * React to emoji to play the game
-* The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 5 minutes, otherwise it is 2 minutes.
+* The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
+
+## Guide
+* HELP! I don't know where to go next!?
+  * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
+* HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
+  * I just beat my rival on Route 103...
+    * The water on Route 103 blocks your path from continuing, head back to Oldale Town and then head west onto Route 102.
+  * I just beat the first gym...
+    * Head to Route 104 S and go to Dewford Town
+  * I just beat the fourth gym....
+    * Head back to Petalburg City for the 5th gym (oh...and good luck)
+  * I just beat the fifth gym...
+    * Go back to Mauville City and continue from Route 118 W to Route 118 E now that you can surf
+  * I just got to Lilycove City!
+    * Go back to Route 121 and head south to 122 and into Mt. Pyre if you haven't yet
+  * I just did Mt. Pyre!
+    * Go back to Jagged Pass and enter the Magma Hideout
+  * I just did the Magma Hideout!
+    * Go to Lilycove City and enter the Aqua Hideout!
+  * I just beat the Mossdeep Gym but don't know what to do next!
+    * Optional: Take down team Magma for good in the Space Center
+    * Mandatory: Follow Team Aqua to route 128, go under, and go to Seafloor Cavern to stop them
+  * I just beat Team Aqua in Seafloor Cavern!
+    * Go to Sootopolis City (route 126, dive, then back up)
+  * I just beat the Cave of Origin!
+    * Go to Sky Pillar (from Sootopolis -> Route 126 -> 127 -> ... -> 131 -> Sky Pillar)
+  * I just beat Sky Pillar!
+    * Go back to Sootopolis and take on the 8th gym
+  * I just beat the 8th gym!
+    * Go to Route 128 and head for Ever Grande City and the Pokemon League
+  * I beat the elite 4...now what?
+    * Shiny hunt (1/100 odds, wow!)
+    * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
+    * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
+    * Gym leader rematches (lv 70 and lv 100)
+    * Take on a harder elite 4 for an extra challenge
+    * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
+
+## FAQ
+* How long did this take to make?
+  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out.
+* Will PVP be added?
+  * Probably not, I made a mess of the battle code and not sure it's feasible.
+* What is stamina?
+  * Stamina is a feature disabled by default, but can be enabled by server admins.
+  * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
+  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
+* Can you add gen4-7 Pokemon?
+  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. You can find them in Altering Cave and can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
+* Can you add gen8 Pokemon?
+  * No
+* Is there a move relearner/TM's?
+  * Lilycove City has both.
+* Can X be added?
+  * Idk, ask me though!
+* Why doesn't [insert move here] work as intended?
+  * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
+* HELP! My game is really laggy!
+  * I blame Discord. Or Notch from Minecraft. But most likely Discord's fault.
+* What is the shiny rate?
+  * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
+* Can I catch legendaries?
+  * Yes. And you can shiny hunt them.
+* How do I save?
+  * Game autosaves.
 
 ## Commands:
 * !start (alias: !s)
@@ -118,71 +183,6 @@
   * verbage: !forceEndSession [trainer name]
   * usage: "!forceEndSession user#1234"
 * There are other commands under !help, but they are DEV ONLY and will not work for you.
-
-## Guide
-* HELP! I don't know where to go next!?
-  * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
-* HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
-  * I just beat my rival on Route 103...
-    * The water on Route 103 blocks your path from continuing, head back to Oldale Town and then head west onto Route 102.
-  * I just beat the first gym...
-    * Head to Route 104 S and go to Dewford Town
-  * I just beat the fourth gym....
-    * Head back to Petalburg City for the 5th gym (oh...and good luck)
-  * I just beat the fifth gym...
-    * Go back to Mauville City and continue from Route 118 W to Route 118 E now that you can surf
-  * I just got to Lilycove City!
-    * Go back to Route 121 and head south to 122 and into Mt. Pyre if you haven't yet
-  * I just did Mt. Pyre!
-    * Go back to Jagged Pass and enter the Magma Hideout
-  * I just did the Magma Hideout!
-    * Go to Lilycove City and enter the Aqua Hideout!
-  * I just beat the Mossdeep Gym but don't know what to do next!
-    * Optional: Take down team Magma for good in the Space Center
-    * Mandatory: Follow Team Aqua to route 128, go under, and go to Seafloor Cavern to stop them
-  * I just beat Team Aqua in Seafloor Cavern!
-    * Go to Sootopolis City (route 126, dive, then back up)
-  * I just beat the Cave of Origin!
-    * Go to Sky Pillar (from Sootopolis -> Route 126 -> 127 -> ... -> 131 -> Sky Pillar)
-  * I just beat Sky Pillar!
-    * Go back to Sootopolis and take on the 8th gym
-  * I just beat the 8th gym!
-    * Go to Route 128 and head for Ever Grande City and the Pokemon League
-  * I beat the elite 4...now what?
-    * Shiny hunt (1/100 odds, wow!)
-    * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
-    * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
-    * Gym leader rematches (lv 70 and lv 100)
-    * Take on a harder elite 4 for an extra challenge
-    * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
-
-## FAQ
-* How long did this take to make?
-  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out.
-* Will PVP be added?
-  * Probably not, I made a mess of the battle code and not sure it's feasible.
-* What is stamina?
-  * Stamina is a feature disabled by default, but can be enabled by server admins.
-  * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
-  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
-* Can you add gen4-7 Pokemon?
-  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. You can find them in Altering Cave and can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
-* Can you add gen8 Pokemon?
-  * No
-* Is there a move relearner/TM's?
-  * Lilycove City has both.
-* Can X be added?
-  * Idk, ask me though!
-* Why doesn't [insert move here] work as intended?
-  * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
-* HELP! My game is really laggy!
-  * I blame Discord. Or Notch from Minecraft. But most likely Discord's fault.
-* What is the shiny rate?
-  * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
-* Can I catch legendaries?
-  * Yes. And you can shiny hunt them.
-* How do I save?
-  * Game autosaves.
 
 ## Legendary Calendar
 * for post-game Mysterious Portal in Abandoned Ship off of Route 108
