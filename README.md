@@ -106,7 +106,7 @@
 * `!swapMoves [party number] [move slot 1] [move slot 2]` (alias: !sm)
   * swaps two of a Pokemon's move slots
   * example: "!sm 3 2 4"
-*  !moveInfo [move name]` (alias: !mi)
+* `!moveInfo [move name]` (alias: !mi)
   * displays information about a move
   * example: "!mi Tackle"
 * `!profile [user]` (alias: !p)
