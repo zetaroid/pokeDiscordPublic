@@ -94,106 +94,91 @@
   * Game autosaves.
 
 ## Commands:
-* !start (alias: !s)
+* `!start` (alias: !s)
   * start a new session. Will be active until AFK for 2 minutes.
-* !guide
+* `!guide`
   * links to this guide
-* !map
+* `!map`
   * displays region map
-* !nickname (alias: !nn)
+* `!nickname [party number] [nickname]` (alias: !nn)
   * sets a Pokemon's nickname
-  * verbage: "!nn [party number] [nickname]"
-  * usage: "!nn 3 Kippy"
-* !swapMoves (alias: !sm)
+  * example: "!nn 3 Kippy"
+* `!swapMoves [party number] [move slot 1] [move slot 2]` (alias: !sm)
   * swaps two of a Pokemon's move slots
-  * verbage: "!sm [party number] [move slot 1] [move slot 2"
-  * usage: "!sm 3 2 4"
-* !moveInfo (alias: !mi)
+  * example: "!sm 3 2 4"
+*  !moveInfo [move name]` (alias: !mi)
   * displays information about a move
-  * verbage: !mi [move name]
-  * usage: "!mi Tackle"
-* !profile (alias: !p)
+  * example: "!mi Tackle"
+* `!profile [user]` (alias: !p)
   * displays a trainer's profile
-  * verbage: !p [user]
-  * usage: "!p @user"
-* !trainerCard (alias: !tc)
+  * example: "!p @user"
+* `!trainerCard [user]` (alias: !tc)
   * displays a trainer's trainer card
-  * verbage: !tc [user]
-  * usage: "!tc @user"
-* !fly (alias: !f)
+  * example: "!tc @user"
+* `!fly [location]` (alias: !f)
   * fly to a given location
-  * verbage: !f [location name]
-  * usage: "!f Littleroot Town"
+  * example: "!f Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
-* !trade (alias: !t)
+* `!trade [your party number to trade] [user to trade with]` (alias: !t)
   * trade with another trainer on the server
-  * verage: !t [your party number to trade] [user]
-  * usage: "!t 2 @user"
+  * example: "!t 2 @user"
   * follow the bot's prompts to confirm trade
-  * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
-* !getStamina (alias: !gs)
+  * *YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
+* `!getStamina [amount]` (alias: !gs)
   * trade 2000 Pokedollars for 1 stamina (in stamina enabled server only)
-  * verbage: !gs [amount]
-  * usage: "!gs 2" = grants 2 stamina at a cost of $4000
-* !battle (alias: !b)
+  * example: "!gs 2" = grants 2 stamina at a cost of $4000
+* `!battle [user]` (alias: !b)
   * battle another trainer on the server, other user must also use this command
-  * verbage: !battle [user]
-  * useage: "!battle @user" = starts battle with user, other user must also use this command
-* !pvp
+  * example: "!battle @user" = starts battle with user, other user must also use this command
+* `!pvp`
   * match-make to find another user to PVP with
-  * usage: "!pvp"
-* !battleCopy
+* `!battleCopy [user]`
   * battle an NPC copy of a trainer on the server
-  * verbage: !battleTrainer [user]
-  * usage: "!battleTrainer @user"
-* !evolve
+  * example: "!battleTrainer @user"
+* `!evolve [party number] [optional: pokemon to evolve into]
   * evolves a Pokemon capable of evolution
-  * verbage: !evolve [party number]
-  * usage: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
-* !unevolve
+  * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
+  * example 2: "!evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
+* `!unevolve`
   * unevolves a Pokemon capable of un-evolution
-  * verbage: !unevolve [party number]
-  * usage: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
-* !setAlteringCave
+  * example: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
+* `!setAlteringCave [Pokemon name]`
   * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
-  * verbage: !setAlteringCave [Pokemon name]
-  * usage: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (earned from Battle Tower)
-* !resetSave
+  * example: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (BP earned from Battle Tower)
+* `!resetSave`
   * resets your save file PERMANENTLY
   * will prompt for confirmation before deleting
-  * usage: !resetSave
-* !endSession (alias: !es)
+  * example: !resetSave
+* `!endSession` (alias: !es)
   * ends your current seession
   * can only be used while in the overworld (not in battle or other menus)
-  * usage: !endSession
+  * example: !endSession
 
 ## Admin Only Commands
-* !disableStamina
+* `!disableStamina`
   * disables the stamina system for the server
-* !enableStamina
+* `!enableStamina`
   * enables the stamina system for the server
-* !grantItem
+* `!grantItem [item] [amount] [trainer name]`
   * grants a given trainer an item in specifed amount
-  * verbage: !grantItem [item] [amount] [trainer name]
-  * usage: "!grantItem Pokeball 2 zetaroid" = grants zetaroid 2x Pokeball
-* !removeItem
+  * if item has spaces, replace with '\_'
+  * example: "!grantItem Pokeball 2 @zetaroid" = grants zetaroid 2x Pokeball
+  * example 2: "!grantItem Hyper_Potion 1 @zetaroid" = grants zetaroid 1 Hyper Potion
+* `!removeItem [item] [amount] [trainer name]`
   * grants a given trainer an item in specifed amount
-  * verbage: !removeItem [item] [amount] [trainer name]
-  * usage: "!removeItem Pokeball 2 zetaroid" = removes 2x Pokeball from zetaroid
-* !grantStamina
+  * if item has spaces, replace with '\_'
+  * example: "!removeItem Pokeball 2 @zetaroid" = removes 2x Pokeball from zetaroid
+  * example 2: "!removeItem Hyper_Potion 1 @zetaroid" = removes 1 Hyper Potion from zetaroid
+* `!grantStamina [amount] [trainer name]`
   * grants a given trainer stamina in specifed amount
-  * verbage: !grantStamina [amount] [trainer name]
-  * usage: "!grantStamina 2 zetaroid" = grants zetaroid 2x stamina
-* !setLocation
+  * example: "!grantStamina 2 @zetaroid" = grants zetaroid 2x stamina
+* `!setLocation [user] [location]`
   * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
-  * verbage: !setLocation [trainer DISCORD NAME] [location]
-  * usage: "!setLocation user#1234 Littleroot Town" = sets user#1234's location to Littleroot Town
-* !forceEndSession
+  * example: "!setLocation @zetaroid Littleroot Town" = sets zetaroid's location to Littleroot Town
+* `!forceEndSession [user]
   * forcibly removes as user from the active session list (does not actually end the session)
   * this command is to be used only if a user can no longer start a session after 5 minutes have passed (ie. something went really wrong)
-  * verbage: !forceEndSession [trainer name]
-  * usage: "!forceEndSession user#1234"
-* There are other commands under !help, but they are DEV ONLY and will not work for you.
+  * example: "!forceEndSession user#1234"
 
 ## Legendary Calendar
 * for post-game Mysterious Portal in Abandoned Ship off of Route 108
