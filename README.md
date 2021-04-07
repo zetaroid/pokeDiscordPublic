@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Features](#Features)
 * [How To Play](#How-To-Play)
-* [Guide](#Guide)
+* [Game Guide](#Game-Guide)
 * [FAQ](#FAQ)
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
@@ -24,11 +24,11 @@
 [![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
 
 ## How To Play
-* Use command !start to start a session
+* Use command `!start` to start a session
 * React to emoji to play the game
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
-## Guide
+## Game Guide
 * HELP! I don't know where to go next!?
   * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
 * HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
@@ -102,13 +102,13 @@
   * displays region map
 * `!nickname [party number] [nickname]` (alias: !nn)
   * sets a Pokemon's nickname
-  * example: "!nn 3 Kippy"
+  * example: "!nn 3 Kippy" = rename Pokemon in slot 3 in party to "Kippy"
 * `!swapMoves [party number] [move slot 1] [move slot 2]` (alias: !sm)
   * swaps two of a Pokemon's move slots
-  * example: "!sm 3 2 4"
+  * example: "!sm 3 2 4" = swaps moves in slot 2 and 4 for Pokemon in slot 3 of party
 * `!moveInfo [move name]` (alias: !mi)
   * displays information about a move
-  * example: "!mi Tackle"
+  * example: "!mi Tackle" = displays info for the move "Tackle"
 * `!profile [user]` (alias: !p)
   * displays a trainer's profile
   * example: "!p @user"
@@ -121,7 +121,7 @@
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
 * `!trade [your party number to trade] [user to trade with]` (alias: !t)
   * trade with another trainer on the server
-  * example: "!t 2 @user"
+  * example: "!t 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
   * follow the bot's prompts to confirm trade
   * *YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * `!getStamina [amount]` (alias: !gs)
