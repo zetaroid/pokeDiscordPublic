@@ -1,4 +1,4 @@
-# How To Use and Play PokeDiscord
+# PokeDiscord - Explore, Catch, Battle, Trade, PVP, and more!
 
 ## Table of Contents
 * [Features](#Features)
@@ -165,7 +165,7 @@
   * ends your current seession
   * can only be used while in the overworld (not in battle or other menus)
   * example: "!endSession"
-* `releasePartyPokemon [your party number to release]`
+* `!releasePartyPokemon [your party number to release]`
   * releases a party Pokemon
   * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
 
