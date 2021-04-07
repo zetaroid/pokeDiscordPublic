@@ -8,6 +8,7 @@
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
+* [Support Server](https://discord.gg/HwYME4Vwj9)
 
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations
