@@ -28,6 +28,44 @@
 * React to emoji to play the game
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
+## FAQ
+* What is this bot?
+  * This bot is full Pokemon RPG experience on Discord where you play through a full length Pokemon game based on Pokemon Emerald. It includes exploration, battles, gyms, PVP, trading, Battle Tower, and more!
+* How do I save?
+  * Game autosaves, you do not need to do anything.
+* I'm confused on where to go.
+  * Please see: [Game Guide](#Game-Guide)
+* How long did this take to make?
+  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out. Have been updating it since!
+* Is there PVP?
+  * Yes! 
+  * For PVP against another user on your server, use `!battle @user`
+  * For matchmaking, use `!pvp`
+* What is the shiny rate?
+  * 1/100, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
+* Can I catch legendaries?
+  * Yes. And you can shiny hunt them.
+* Can you catch gen 4-7 Pokemon?
+  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. 
+  * You can catch any non-legendary in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
+* Is there a move relearner/TM's?
+  * Lilycove City has both.
+* Can you add gen8 Pokemon?
+  * Not in the plans at the moment, the overhead of getting all the data for the Pokemon is a lot.
+* Can [insert request here] be added?
+  * Maybe, maybe not, ask me though!
+* Why doesn't [insert move here] work as it does in the main series?
+  * Because I didn't implement it. If you want it to work badly enough, shoot me a message.
+  * Some moves, like Hyper Beam, do not take a turn to recharge but have had their power reduced to compensate.
+* HELP! My game is really laggy!
+  * It's most likely Discord's fault. The API is sometimes down on their end and causes many strange issues to occur.
+* What is stamina?
+  * Stamina is a feature disabled by default, but can be enabled by server admins.
+  * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
+  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
+* Can I get involved?
+  * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to contact the developer. We are not particurarly looking for development support, but definitely could use some help promoting the bot.
+
 ## Game Guide
 * HELP! I don't know where to go next!?
   * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
@@ -64,34 +102,6 @@
     * Gym leader rematches (lv 70 and lv 100)
     * Take on a harder elite 4 for an extra challenge
     * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
-
-## FAQ
-* How long did this take to make?
-  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out.
-* Will PVP be added?
-  * Probably not, I made a mess of the battle code and not sure it's feasible.
-* What is stamina?
-  * Stamina is a feature disabled by default, but can be enabled by server admins.
-  * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
-  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
-* Can you add gen4-7 Pokemon?
-  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. You can find them in Altering Cave and can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
-* Can you add gen8 Pokemon?
-  * No
-* Is there a move relearner/TM's?
-  * Lilycove City has both.
-* Can X be added?
-  * Idk, ask me though!
-* Why doesn't [insert move here] work as intended?
-  * Because I didn't implement it. If you want it to work bad enough, shoot me a message.
-* HELP! My game is really laggy!
-  * I blame Discord. Or Notch from Minecraft. But most likely Discord's fault.
-* What is the shiny rate?
-  * 1/100, and yes trainers can have shiny Pokemon (I'm sorry).
-* Can I catch legendaries?
-  * Yes. And you can shiny hunt them.
-* How do I save?
-  * Game autosaves.
 
 ## Commands:
 * `!start` (alias: !s)
