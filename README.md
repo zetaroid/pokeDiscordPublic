@@ -181,7 +181,8 @@
   * example: "!forceEndSession user#1234"
 
 ## Legendary Calendar
-* for post-game Mysterious Portal in Abandoned Ship off of Route 108
+* after you beat the Elite 4 in Hoenn, a Mysterious Portal opens in the Abandoned Ship off of Route 108.
+* legendary Pokemon can be found in this ship and changes frequently!
 ### Even Months
 ![even months](https://i.imgur.com/5QVxaeP.png)
 ### Odd Months
