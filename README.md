@@ -135,7 +135,7 @@
 * `!battleCopy [user]`
   * battle an NPC copy of a trainer on the server
   * example: "!battleTrainer @user"
-* `!evolve [party number] [optional: pokemon to evolve into]
+* `!evolve [party number] [optional: pokemon to evolve into]`
   * evolves a Pokemon capable of evolution
   * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
   * example 2: "!evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
@@ -175,7 +175,7 @@
 * `!setLocation [user] [location]`
   * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
   * example: "!setLocation @zetaroid Littleroot Town" = sets zetaroid's location to Littleroot Town
-* `!forceEndSession [user]
+* `!forceEndSession [user]`
   * forcibly removes as user from the active session list (does not actually end the session)
   * this command is to be used only if a user can no longer start a session after 5 minutes have passed (ie. something went really wrong)
   * example: "!forceEndSession user#1234"
