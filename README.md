@@ -160,11 +160,14 @@
 * `!resetSave`
   * resets your save file PERMANENTLY
   * will prompt for confirmation before deleting
-  * example: !resetSave
+  * example: "!resetSave"
 * `!endSession` (alias: !es)
   * ends your current seession
   * can only be used while in the overworld (not in battle or other menus)
-  * example: !endSession
+  * example: "!endSession"
+* `releasePartyPokemon [your party number to release]`
+  * releases a party Pokemon
+  * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
 
 ## Admin Only Commands
 * `!disableStamina`
