@@ -145,7 +145,7 @@
   * match-make to find another user to PVP with
 * `!battleCopy [user]`
   * battle an NPC copy of a trainer on the server
-  * example: "!battleTrainer @user"
+  * example: "!battleCopy @user"
 * `!evolve [party number] [optional: pokemon to evolve into]`
   * evolves a Pokemon capable of evolution
   * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
