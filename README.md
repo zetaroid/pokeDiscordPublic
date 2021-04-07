@@ -21,7 +21,7 @@
 ![PokeDiscord Banner](https://i.imgur.com/Ei2W65P.png)
 
 ## Trailer (click the image)
-[![link to youtube trailer](https://i.imgur.com/AAsDZzV.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
+[![link to youtube trailer](https://imgur.com/PQ6co0m)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
 
 ## How To Play
 * Use command `!start` to start a session
