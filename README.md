@@ -14,6 +14,7 @@
 * Battle, catch, and trade Pokemon from across 7 generations
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
+* PVP and matchmaking!
 * End game content including: shiny hunting, legendary battles/catching, trading, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
@@ -113,12 +114,12 @@
   * usage: "!mi Tackle"
 * !profile (alias: !p)
   * displays a trainer's profile
-  * verbage: !p [trainer name]
-  * usage: "!p Zetaroid"
+  * verbage: !p [user]
+  * usage: "!p @user"
 * !trainerCard (alias: !tc)
   * displays a trainer's trainer card
-  * verbage: !tc [trainer name]
-  * usage: "!tc Zetaroid"
+  * verbage: !tc [user]
+  * usage: "!tc @user"
 * !fly (alias: !f)
   * fly to a given location
   * verbage: !f [location name]
@@ -126,19 +127,25 @@
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
 * !trade (alias: !t)
   * trade with another trainer on the server
-  * verage: !t [your party number to trade] [trainer name to trade with]
-  * usage: !t 2 zetaroid
+  * verage: !t [your party number to trade] [user]
+  * usage: "!t 2 @user"
   * follow the bot's prompts to confirm trade
   * *DO TO ME BEING LAZY, YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * !getStamina (alias: !gs)
-  * trade Pokedollars for stamina (in stamina enabled server only)
+  * trade 2000 Pokedollars for 1 stamina (in stamina enabled server only)
   * verbage: !gs [amount]
   * usage: "!gs 2" = grants 2 stamina at a cost of $4000
-  * trades 2000 Pokedollars for 1 stamina
-* !battleTrainer
+* !battle (alias: !b)
+  * battle another trainer on the server, other user must also use this command
+  * verbage: !battle [user]
+  * useage: "!battle @user" = starts battle with user, other user must also use this command
+* !pvp
+  * match-make to find another user to PVP with
+  * usage: "!pvp"
+* !battleCopy
   * battle an NPC copy of a trainer on the server
-  * verbage: !battleTrainer [trainer name]
-  * usage: "!battleTrainer zetaroid"
+  * verbage: !battleTrainer [user]
+  * usage: "!battleTrainer @user"
 * !evolve
   * evolves a Pokemon capable of evolution
   * verbage: !evolve [party number]
