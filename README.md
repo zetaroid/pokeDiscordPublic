@@ -41,6 +41,7 @@
   * Yes! 
   * For PVP against another user on your server, use `!battle @user`
   * For matchmaking, use `!pvp`
+  * When participating in PVP, your Pokemon will temporarily be raised to level 100.
 * What is the shiny rate?
   * 1/100, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
 * Can I catch legendaries?
