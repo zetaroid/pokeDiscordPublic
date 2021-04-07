@@ -193,7 +193,7 @@
 * `!forceEndSession [user]`
   * forcibly removes as user from the active session list (does not actually end the session)
   * this command is to be used only if a user can no longer start a session after 5 minutes have passed (ie. something went really wrong)
-  * example: "!forceEndSession user#1234"
+  * example: "!forceEndSession @zetaroid" - forcibly ends the session for zetaroid
 
 ## Legendary Calendar
 * after you beat the Elite 4 in Hoenn, a Mysterious Portal opens in the Abandoned Ship off of Route 108.
