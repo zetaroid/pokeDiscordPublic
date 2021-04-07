@@ -8,7 +8,6 @@
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
-* [Errors](#Errors)
 
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations
@@ -63,8 +62,9 @@
   * Stamina is a feature disabled by default, but can be enabled by server admins.
   * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
   * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
-* Can I get involved?
-  * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to contact the developer. We are not particurarly looking for development support, but definitely could use some help promoting the bot.
+* Can I get help or get involved?
+  * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to get help / contact the developer. 
+  * In terms of involvement, we are not particurarly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
 * HELP! I don't know where to go next!?
@@ -197,11 +197,3 @@
 ![even months](https://i.imgur.com/5QVxaeP.png)
 ### Odd Months
 ![odd months](https://i.imgur.com/SdNXuns.png)
-
-## Errors
-* For support and reporting errors, please use the "support" channel in the [support server](https://discord.gg/HwYME4Vwj9)
-* If the game crashes and you are unable to start again after 5 minutes have passed, the game is borked for you and the developer will have to fix it.
-* If the game crashes, an error message will be sent. Please report this to the developer.
-* If you see Missingno...this is an error.
-* If you see a wild level 100 Rayquaza, that is an error! Please let the developer know how this happened.
-![Rayquaza Error](https://i.imgur.com/oujR9ek.png)
