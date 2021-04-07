@@ -95,7 +95,7 @@
 
 ## Commands:
 * `!start` (alias: !s)
-  * start a new session. Will be active until AFK for 2 minutes.
+  * start a new session. Will be active until AFK for 10 minutes (15 minutes in battle).
 * `!guide`
   * links to this guide
 * `!map`
