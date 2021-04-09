@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Features](#Features)
 * [How To Play](#How-To-Play)
-* [Game Guide](#Game-Guide)
 * [FAQ](#FAQ)
+* [Game Guide](#Game-Guide)
 * [Commands](#Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
