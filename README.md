@@ -168,6 +168,15 @@
 * `!releasePartyPokemon [your party number to release]`
   * releases a party Pokemon
   * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
+* `!enableGlobalSave`
+  * if you use this command, the save file on that server will become a "global save" for you. This means that any server you play on will use this save file
+  * this will NOT delete any save files
+* `!disableGlobalSave`
+  * disables global save for you. All servers will have separate save files
+  * This will NOT delete any save files
+* `!toggleForm <party number>`
+  * changes the form for a given party Pokemon
+  * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
 
 ## Admin Only Commands
 * `!disableStamina`
