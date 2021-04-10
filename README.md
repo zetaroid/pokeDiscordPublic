@@ -11,11 +11,11 @@
 * [Support Server](https://discord.gg/HwYME4Vwj9)
 
 ## Features
-* Battle, catch, and trade Pokemon from across 7 generations
+* Battle, catch, and trade Pokemon from across 7 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
 * PVP and matchmaking!
-* End game content including: shiny hunting, legendary battles/catching, trading, Battle Tower, and more to come!
+* End game content including: shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
 ![PokeDiscord Banner](https://i.imgur.com/Ei2W65P.png)
