@@ -173,7 +173,7 @@
   * this will NOT delete any save files
 * `!disableGlobalSave`
   * disables global save for you. All servers will have separate save files
-  * This will NOT delete any save files
+  * this will NOT delete any save files
 * `!toggleForm <party number>`
   * changes the form for a given party Pokemon
   * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
