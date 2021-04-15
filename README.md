@@ -1,4 +1,4 @@
-# PokeDiscord - Explore, Catch, Battle, Trade, PVP, and more!
+# PokeNav - Explore, Catch, Battle, Trade, PVP, and more!
 
 ## Table of Contents
 * [Features](#Features)
@@ -18,10 +18,10 @@
 * End game content including: shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
-![PokeDiscord Banner](https://i.imgur.com/Ei2W65P.png)
+![PokéNav Banner](https://i.imgur.com/Ei2W65P.png)
 
 ## Trailer (click the image)
-[![link to youtube trailer](https://i.imgur.com/PQ6co0m.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokeDiscord Trailer")
+[![link to youtube trailer](https://i.imgur.com/PQ6co0m.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokéNav Trailer")
 
 ## How To Play
 * Use command `!start` to start a session
