@@ -18,7 +18,7 @@
 * End game content including: shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
-![PokéNav Banner](https://i.imgur.com/6vRavVI.png)
+![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
 
 ## Trailer (click the image)
 [![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokéNav Trailer")
