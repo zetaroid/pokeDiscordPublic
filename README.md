@@ -1,4 +1,4 @@
-# PokeNav - Explore, Catch, Battle, Trade, PVP, and more!
+# PokéNav - Explore, Catch, Battle, Trade, PVP, and more!
 
 ## Table of Contents
 * [Features](#Features)
