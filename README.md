@@ -180,16 +180,6 @@
   * display status of current raid
 
 ## Admin Only Commands
-* `!grantItem [item] [amount] [trainer name]`
-  * grants a given trainer an item in specifed amount
-  * if item has spaces, replace with '\_'
-  * example: "!grantItem Pokeball 2 @zetaroid" = grants zetaroid 2x Pokeball
-  * example 2: "!grantItem Hyper_Potion 1 @zetaroid" = grants zetaroid 1 Hyper Potion
-* `!removeItem [item] [amount] [trainer name]`
-  * grants a given trainer an item in specifed amount
-  * if item has spaces, replace with '\_'
-  * example: "!removeItem Pokeball 2 @zetaroid" = removes 2x Pokeball from zetaroid
-  * example 2: "!removeItem Hyper_Potion 1 @zetaroid" = removes 1 Hyper Potion from zetaroid
 * `!setLocation [user] [location]`
   * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
   * example: "!setLocation @zetaroid Littleroot Town" = sets zetaroid's location to Littleroot Town
