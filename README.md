@@ -44,7 +44,7 @@
   * For matchmaking, use `!pvp`
   * When participating in PVP, your Pokemon will temporarily be raised to level 100.
 * What is the shiny rate?
-  * 1/200, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
+  * 1/300, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
 * Can you catch gen 4-7 Pokemon?
@@ -61,10 +61,6 @@
   * Some moves, like Hyper Beam, do not take a turn to recharge but have had their power reduced to compensate.
 * HELP! My game is really laggy!
   * It's most likely Discord's fault. The API is sometimes down on their end and causes many strange issues to occur.
-* What is stamina?
-  * Stamina is a feature disabled by default, but can be enabled by server admins.
-  * With stamina enabled, making progress on a route or entering a battle will consume 1 stamina.
-  * Stamina refreshes at midnight PST daily or can be bought for $2000 Pokedollars per stamina.
 * Can I get help or get involved?
   * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to get help / contact the developer. 
   * In terms of involvement, we are not particurarly looking for development support, but definitely could use some help promoting the bot.
@@ -99,7 +95,7 @@
   * I just beat the 8th gym!
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
-    * Shiny hunt (1/200 odds, wow!)
+    * Shiny hunt (1/300 odds, wow!)
     * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
     * Gym leader rematches (lv 70 and lv 100)
@@ -137,9 +133,6 @@
   * example: "!t 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
   * follow the bot's prompts to confirm trade
   * *YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
-* `!getStamina [amount]` (alias: !gs)
-  * trade 2000 Pokedollars for 1 stamina (in stamina enabled server only)
-  * example: "!gs 2" = grants 2 stamina at a cost of $4000
 * `!battle [user]` (alias: !b)
   * battle another trainer on the server, other user must also use this command
   * example: "!battle @user" = starts battle with user, other user must also use this command
@@ -179,12 +172,14 @@
 * `!toggleForm <party number>`
   * changes the form for a given party Pokemon
   * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
+* `!createShinyCharm`
+  * trade 3 Shiny Charm Fragments for 1 Shiny Charm
+* `!raid`
+  * join an active raid if one exists
+* `!raidInfo`
+  * display status of current raid
 
 ## Admin Only Commands
-* `!disableStamina`
-  * disables the stamina system for the server
-* `!enableStamina`
-  * enables the stamina system for the server
 * `!grantItem [item] [amount] [trainer name]`
   * grants a given trainer an item in specifed amount
   * if item has spaces, replace with '\_'
@@ -195,9 +190,6 @@
   * if item has spaces, replace with '\_'
   * example: "!removeItem Pokeball 2 @zetaroid" = removes 2x Pokeball from zetaroid
   * example 2: "!removeItem Hyper_Potion 1 @zetaroid" = removes 1 Hyper Potion from zetaroid
-* `!grantStamina [amount] [trainer name]`
-  * grants a given trainer stamina in specifed amount
-  * example: "!grantStamina 2 @zetaroid" = grants zetaroid 2x stamina
 * `!setLocation [user] [location]`
   * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
   * example: "!setLocation @zetaroid Littleroot Town" = sets zetaroid's location to Littleroot Town
