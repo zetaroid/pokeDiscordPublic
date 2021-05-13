@@ -44,7 +44,7 @@
   * For matchmaking, use `!pvp`
   * When participating in PVP, your Pokemon will temporarily be raised to level 100.
 * What is the shiny rate?
-  * 1/300, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
+  * 1/200, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
 * Can you catch gen 4-7 Pokemon?
@@ -95,7 +95,7 @@
   * I just beat the 8th gym!
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
-    * Shiny hunt (1/300 odds, wow!)
+    * Shiny hunt (1/200 odds, wow!)
     * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
     * Gym leader rematches (lv 70 and lv 100)
