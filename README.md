@@ -15,7 +15,7 @@
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
 * PVP and matchmaking!
-* End game content including: shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, and more to come!
+* End game content including: raids, shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, Secret Bases, and more to come!
 * Majority of game is played command free after typing "!start". Interact with the world through emojis.
 
 ![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
@@ -95,12 +95,14 @@
   * I just beat the 8th gym!
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
+    * Take part in raids! They will pop up from time to time as you play. Use `!raid` to join an active one.
     * Shiny hunt (1/200 odds, wow!)
-    * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary!)
+    * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary in gen 1-7!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
     * Gym leader rematches (lv 70 and lv 100)
     * Take on a harder elite 4 for an extra challenge
     * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
+    * Create a secret base! Use `!secretPower` to create one. Furniture can be bought in the `!shop` in exchange for BP earned from raids/Battle Tower.
 
 ## Commands:
 * `!start` (alias: !s)
