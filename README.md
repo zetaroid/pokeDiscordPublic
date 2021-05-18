@@ -178,6 +178,21 @@
   * join an active raid if one exists
 * `!raidInfo`
   * display status of current raid
+* `!shop [category]`
+  *  opens the BP shop (League Champions only!)
+  *  example: "!shop furniture"
+* `!buy <amount> <item name>`
+  * buy an item from the shop (League Champions only!)
+  * example: "!buy 1 mudkip doll"
+* `!secretPower`
+  * creates a secret base
+  * use when in the overworld
+* `!deleteBase`
+  * delete your current secret base
+  * use when not in an active session
+* `!viewBase <@user>`
+  * view a user's secret base
+  * example: "!viewBase @user"
 
 ## Admin Only Commands
 * `!setLocation [user] [location]`
