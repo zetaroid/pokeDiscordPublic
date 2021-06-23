@@ -74,7 +74,7 @@
 * Can I get help or get involved?
   * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to get help / contact the developer. 
   * The support server also has a channel for suggestions for the bot.
-  * In terms of involvement, we are not particurarly looking for development support, but definitely could use some help promoting the bot.
+  * In terms of involvement, we are not particularly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
 * HELP! I don't know where to go next!?
