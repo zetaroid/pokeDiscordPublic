@@ -9,7 +9,7 @@
   * [Main Commands](#Main-Commands)
   * [Party Management](#Party-Management)
   * [Player Management](#Player-Management)
-  * [PVP & Trading](#PVP-&-Trading)
+  * [PVP and Trading](#PVP-and-Trading)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Support Server](https://discord.gg/HwYME4Vwj9)
@@ -186,7 +186,7 @@
   * buy an item from the shop (League Champions only!)
   * example: "!buy 1 mudkip doll"
 
-### PVP & Trading
+### PVP and Trading
 * `!trade [your party number to trade] [user to trade with]` (alias: !t)
   * trade with another trainer on the server
   * example: "!t 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
