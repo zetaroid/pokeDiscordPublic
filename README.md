@@ -13,15 +13,23 @@
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Limited Time Events](#Events)
-* [Support Server](https://discord.gg/HwYME4Vwj9)
+
+[Support Server](https://discord.gg/HwYME4Vwj9)
 
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
 * PVP and matchmaking!
-* End game content including: raids, shiny hunting, legendary battles/catching, trading, PVP, Battle Tower, Secret Bases, and more to come!
-* Majority of game is played command free after typing "!start". Interact with the world through emojis.
+* End game content including: 
+  * Raids
+  * Shiny hunting
+  * Legendary battles/catching
+  * Trading
+  * PVP
+  * Battle Tower
+  * Secret Bases
+* Majority of game is played command free after typing "!start". Interact with the world through emojis. Desktop/Mobile friendly!
 
 ![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
 
@@ -42,7 +50,7 @@
 * I'm confused on where to go.
   * Please see: [Game Guide](#Game-Guide)
 * How long did this take to make?
-  * Two weeks worth of my time outside of work and sleep for the base. Then another three weeks to flesh it out. Have been updating it since!
+  * I have been working on this since February 2021.
 * Is there PVP?
   * Yes! 
   * For PVP against another user on your server, use `!battle @user`
@@ -53,8 +61,7 @@
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
 * Can you catch gen 4-7 Pokemon?
-  * Not immediately evident, but I already did! Game is based on Emerald so you can't catch gen 4-7 Pokemon until post-game. 
-  * You can catch any non-legendary in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower).
+  * You can catch any non-legendary gen 1-7 Pokemon in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower or from raids).
 * Is there a move relearner/TM's?
   * Lilycove City has both.
 * Can you add gen8 Pokemon?
@@ -62,18 +69,17 @@
 * Can [insert request here] be added?
   * Maybe, maybe not, ask me though!
 * Why doesn't [insert move here] work as it does in the main series?
-  * Because I didn't implement it. If you want it to work badly enough, shoot me a message.
+  * I decided not to implement certain moves like Foresight that are rarely ever used. If there is enough demand for some of these moves in the future, I will gladly take the time to add them.
   * Some moves, like Hyper Beam, do not take a turn to recharge but have had their power reduced to compensate.
-* HELP! My game is really laggy!
-  * It's most likely Discord's fault. The API is sometimes down on their end and causes many strange issues to occur.
 * Can I get help or get involved?
   * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to get help / contact the developer. 
+  * The support server also has a channel for suggestions for the bot.
   * In terms of involvement, we are not particurarly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
 * HELP! I don't know where to go next!?
   * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
-* HELP! Where do I go next and the Emerald strategy guide isn't helping!!!???
+* HELP! Where do I go next and the Emerald strategy guide isn't helping!?
   * I just beat my rival on Route 103...
     * The water on Route 103 blocks your path from continuing, head back to Oldale Town and then head west onto Route 102.
   * I just beat the first gym...
