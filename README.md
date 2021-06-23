@@ -6,6 +6,7 @@
 * [FAQ](#FAQ)
 * [Game Guide](#Game-Guide)
 * [Commands](#Commands)
+  * [Main Commands](#Main-Commands)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Support Server](https://discord.gg/HwYME4Vwj9)
