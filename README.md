@@ -14,8 +14,8 @@
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Limited Time Events](#Events)
 
-![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)[Support Server](https://discord.gg/HwYME4Vwj9)
-
+![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)[Support Server](https://discord.gg/HwYME4Vwj9)![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)
+[![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)](https://discord.gg/HwYME4Vwj9 "Support Server")
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
