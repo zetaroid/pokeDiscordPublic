@@ -105,31 +105,84 @@
     * Create a secret base! Use `!secretPower` to create one. Furniture can be bought in the `!shop` in exchange for BP earned from raids/Battle Tower.
 
 ## Commands:
+### Main Commands
 * `!start` (alias: !s)
   * start a new session. Will be active until AFK for 10 minutes (15 minutes in battle).
+* `!fly [location]` (alias: !f)
+  * fly to a given location
+  * example: "!f Littleroot Town"
+  * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
+* `!endSession` (alias: !es)
+  * ends your current seession
+  * can only be used while in the overworld (not in battle or other menus)
+  * example: "!endSession"
 * `!guide`
   * links to this guide
 * `!map`
   * displays region map
+
+### Party Management
 * `!nickname [party number] [nickname]` (alias: !nn)
   * sets a Pokemon's nickname
   * example: "!nn 3 Kippy" = rename Pokemon in slot 3 in party to "Kippy"
 * `!swapMoves [party number] [move slot 1] [move slot 2]` (alias: !sm)
   * swaps two of a Pokemon's move slots
   * example: "!sm 3 2 4" = swaps moves in slot 2 and 4 for Pokemon in slot 3 of party
+* `!evolve [party number] [optional: pokemon to evolve into]`
+  * evolves a Pokemon capable of evolution
+  * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
+  * example 2: "!evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
+* `!unevolve`
+  * unevolves a Pokemon capable of un-evolution
+  * example: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
+* `!release [your party number to release]`
+  * releases a party Pokemon
+  * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
+* `!toggleForm <party number>`
+  * changes the form for a given party Pokemon
+  * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
 * `!moveInfo [move name]` (alias: !mi)
   * displays information about a move
   * example: "!mi Tackle" = displays info for the move "Tackle"
+
+### Player Management
 * `!profile [user]` (alias: !p)
   * displays a trainer's profile
   * example: "!p @user"
 * `!trainerCard [user]` (alias: !tc)
   * displays a trainer's trainer card
-  * example: "!tc @user"
-* `!fly [location]` (alias: !f)
-  * fly to a given location
-  * example: "!f Littleroot Town"
-  * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
+  * example: "!tc @user"\
+* `!enableGlobalSave`
+  * if you use this command, the save file on that server will become a "global save" for you. This means that any server you play on will use this save file
+  * this will NOT delete any save files
+* `!disableGlobalSave`
+  * disables global save for you. All servers will have separate save files
+  * this will NOT delete any save files
+* `!resetSave`
+  * resets your save file PERMANENTLY
+  * will prompt for confirmation before deleting
+  * cannot be used while using a global save file
+  * example: "!resetSave"
+* `!setSprite <sprite>`
+  * set player trainer card sprite
+  * options: male, female, default
+* `!setAlteringCave [Pokemon name]`
+  * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
+  * example: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (BP earned from Battle Tower)
+* `!secretPower`
+  * creates a secret base
+  * use when in the overworld
+* `!deleteBase`
+  * delete your current secret base
+  * use when not in an active session
+* `!shop [category]`
+  *  opens the BP shop (League Champions only!)
+  *  example: "!shop furniture"
+* `!buy <amount> <item name>`
+  * buy an item from the shop (League Champions only!)
+  * example: "!buy 1 mudkip doll"
+
+### PVP / Trading
 * `!trade [your party number to trade] [user to trade with]` (alias: !t)
   * trade with another trainer on the server
   * example: "!t 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
@@ -143,55 +196,12 @@
 * `!battleCopy [user]`
   * battle an NPC copy of a trainer on the server
   * example: "!battleCopy @user"
-* `!evolve [party number] [optional: pokemon to evolve into]`
-  * evolves a Pokemon capable of evolution
-  * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
-  * example 2: "!evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
-* `!unevolve`
-  * unevolves a Pokemon capable of un-evolution
-  * example: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
-* `!setAlteringCave [Pokemon name]`
-  * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
-  * example: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (BP earned from Battle Tower)
-* `!resetSave`
-  * resets your save file PERMANENTLY
-  * will prompt for confirmation before deleting
-  * cannot be used while using a global save file
-  * example: "!resetSave"
-* `!endSession` (alias: !es)
-  * ends your current seession
-  * can only be used while in the overworld (not in battle or other menus)
-  * example: "!endSession"
-* `!releasePartyPokemon [your party number to release]`
-  * releases a party Pokemon
-  * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
-* `!enableGlobalSave`
-  * if you use this command, the save file on that server will become a "global save" for you. This means that any server you play on will use this save file
-  * this will NOT delete any save files
-* `!disableGlobalSave`
-  * disables global save for you. All servers will have separate save files
-  * this will NOT delete any save files
-* `!toggleForm <party number>`
-  * changes the form for a given party Pokemon
-  * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
-* `!createShinyCharm`
-  * trade 3 Shiny Charm Fragments for 1 Shiny Charm
 * `!raid`
   * join an active raid if one exists
 * `!raidInfo`
   * display status of current raid
-* `!shop [category]`
-  *  opens the BP shop (League Champions only!)
-  *  example: "!shop furniture"
-* `!buy <amount> <item name>`
-  * buy an item from the shop (League Champions only!)
-  * example: "!buy 1 mudkip doll"
-* `!secretPower`
-  * creates a secret base
-  * use when in the overworld
-* `!deleteBase`
-  * delete your current secret base
-  * use when not in an active session
+* `!event`
+  * view active event
 * `!viewBase <@user>`
   * view a user's secret base
   * example: "!viewBase @user"
