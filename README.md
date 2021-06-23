@@ -12,6 +12,7 @@
   * [PVP and Trading](#PVP-and-Trading)
 * [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
+* [Limited Time Events](#Events)
 * [Support Server](https://discord.gg/HwYME4Vwj9)
 
 ## Features
@@ -230,4 +231,4 @@
 ## Events
 * limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
-* ![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
+![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
