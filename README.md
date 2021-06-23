@@ -14,7 +14,7 @@
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Limited Time Events](#Events)
 
-![PokeNav Logo](https://i.imgur.com/EBiep3D.png)[Support Server](https://discord.gg/HwYME4Vwj9)
+![PokeNav Logo](https://i.imgur.com/eq6PBEg.png)[Support Server](https://discord.gg/HwYME4Vwj9)
 
 ## Features
 * Battle, catch, and trade Pokemon from across 7 generations including forms!
