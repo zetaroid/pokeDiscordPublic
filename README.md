@@ -238,3 +238,7 @@
 * limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
 ![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
+
+## Disclaimer
+* This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
+* Sprites for this bot are pulled from many various sources on the internet. All sprites are owned by their respective creators, and none are owned by this bot.
