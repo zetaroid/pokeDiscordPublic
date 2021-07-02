@@ -239,7 +239,7 @@
 ![odd months](https://i.imgur.com/SdNXuns.png)
 
 ## Events
-* limited time events sometimes will appear in the Hoenn region! See some of our past events below:
+Limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
 ![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
 ### Pokemon Colosseum Event
