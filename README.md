@@ -245,7 +245,7 @@
 ### Pokemon Colosseum Event
 ![Pokemon Colosseum Event](https://i.imgur.com/2MqeNti.png)
 ### Rainbow Mirage Island Appears!
-![Rainbow Mirage Island](https://i.imgur.com/1C8bxcE.png)
+![Rainbow Mirage Island](https://i.imgur.com/HCd2r8N.png)
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
