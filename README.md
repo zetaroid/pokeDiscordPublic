@@ -242,6 +242,10 @@
 * limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
 ![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
+### Pokemon Colosseum Event
+![Pokemon Colosseum Event](https://i.imgur.com/2MqeNti.png)
+### Rainbow Mirage Island Appears!
+![Rainbow Mirage Island](https://i.imgur.com/1C8bxcE.png)
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
