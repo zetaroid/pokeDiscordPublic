@@ -256,6 +256,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Shadow Lugia" sprite by Shadowgate31 on DeviantArt
 * "Shadow Ho-Oh" sprite by TheAetherPlayer on DeviantArt
 * "Spectre Greninja" sprite by VortexInfurnus on the Pokemon Insurgence forums
+* "Shadow Mewtwo" by 1ofthe4rocketbros on the Pokemon Insurgence forums
+* "Armored Mewtwo" by Aboodie on the Pokemon Insurgence forums
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
