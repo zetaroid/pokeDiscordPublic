@@ -225,15 +225,6 @@
   * view a user's secret base
   * example: "!viewBase @user"
 
-## Admin Only Commands
-* `!setLocation [user] [location]`
-  * forcibly sets a players location (recommended to use when they do NOT have an open session, must use Discord name and NOT server name)
-  * example: "!setLocation @zetaroid Littleroot Town" = sets zetaroid's location to Littleroot Town
-* `!forceEndSession [user]`
-  * forcibly removes as user from the active session list (does not actually end the session)
-  * this command is to be used only if a user can no longer start a session after 5 minutes have passed (ie. something went really wrong)
-  * example: "!forceEndSession @zetaroid" - forcibly ends the session for zetaroid
-
 ## Legendary Calendar
 * after you beat the Elite 4 in Hoenn, a Mysterious Portal opens in the Abandoned Ship off of Route 108.
 * legendary Pokemon can be found in this ship and changes frequently!
