@@ -160,6 +160,9 @@
 * `!moveInfo [move name]` (alias: !mi)
   * displays information about a move
   * example: "!mi Tackle" = displays info for the move "Tackle"
+* `!dex <Pokemon name>`
+  * view a Pokemon's dex entry and where to find
+  * example: "!dex Zigzagoon" = displays Zigzagoon's info
 
 ### Player Management
 * `!profile [user]` (alias: !p)
