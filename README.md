@@ -10,7 +10,6 @@
   * [Party Management](#Party-Management)
   * [Player Management](#Player-Management)
   * [PVP and Trading](#PVP-and-Trading)
-* [Admin ONLY Command](#Admin-Only-Commands)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
 * [Limited Time Events](#Events)
 * [Credits](#Credits)
