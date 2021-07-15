@@ -162,6 +162,7 @@
   * example: "!mi Tackle" = displays info for the move "Tackle"
 * `!dex <Pokemon name>`
   * view a Pokemon's dex entry and where to find
+  * add "shiny" or "distortion" to the end of command to view those sprites
   * example: "!dex Zigzagoon" = displays Zigzagoon's info
 
 ### Player Management
