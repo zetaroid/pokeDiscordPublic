@@ -236,7 +236,7 @@
 ## Events
 Limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
-![Dance Party in Orre](https://i.imgur.com/1sidtqX.png)
+![Dance Party in Orre](https://i.imgur.com/4in8AM6.png)
 ### Pokemon Colosseum Event
 ![Pokemon Colosseum Event](https://i.imgur.com/2MqeNti.png)
 ### Rainbow Mirage Island Appears!
