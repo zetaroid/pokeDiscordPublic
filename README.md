@@ -63,10 +63,12 @@
   * Yes. And you can shiny hunt them.
 * Can you catch gen 4-7 Pokemon?
   * You can catch any non-legendary gen 1-7 Pokemon in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower or from raids).
+* Are there mega evolutions/Z-moves/Dynamax?
+  * Although none of these are in game, Mega forms can be obtained (aesthetic and type only) by purchasing a mega stone from the `!shop` with BP the changing form the the `!changeForm` command.
 * Is there a move relearner/TM's?
   * Lilycove City has both.
 * Can you add gen8 Pokemon?
-  * Not in the plans at the moment, the overhead of getting all the data for the Pokemon is a lot.
+  * They are slowly being released as events.
 * Can [insert request here] be added?
   * Maybe, maybe not, ask me though!
 * Why doesn't [insert move here] work as it does in the main series?
