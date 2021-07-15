@@ -58,6 +58,7 @@
   * When participating in PVP, your Pokemon will temporarily be raised to level 100.
 * What is the shiny rate?
   * 1/200, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
+  * There are second form of shinies called "distortions" that have 1/10,000 odds.
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
 * Can you catch gen 4-7 Pokemon?
