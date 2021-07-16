@@ -166,6 +166,8 @@
   * view a Pokemon's dex entry and where to find
   * add "shiny" or "distortion" to the end of command to view those sprites
   * example: "!dex Zigzagoon" = displays Zigzagoon's info
+  * example 2: "!dex Zigzagoon shiny" = displays shiny Zigzagoon
+  * example 3: "!dex Charizard form 1 shiny" = displays shiny Mega Charizard X
 
 ### Player Management
 * `!profile [user]` (alias: !p)
