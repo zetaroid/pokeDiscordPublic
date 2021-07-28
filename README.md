@@ -1,5 +1,7 @@
 # PokéNav - Explore, Catch, Battle, Trade, PVP, and more!
 
+[Vote for PokéNav here!](https://top.gg/bot/800207357622878229/vote)
+
 ## Table of Contents
 * [Features](#Features)
 * [How To Play](#How-To-Play)
