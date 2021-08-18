@@ -65,7 +65,7 @@
 * Can you catch gen 4-7 Pokemon?
   * You can catch any non-legendary gen 1-7 Pokemon in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower or from raids).
 * Are there Mega Evolutions/Z-moves/Dynamax?
-  * Although none of these are in game, Mega forms can be obtained (aesthetic and type only) by purchasing a Mega Stone from the `!shop` with BP the changing form with the `!changeForm` command.
+  * Although none of these are in game, Mega forms can be obtained by purchasing a Mega Stone from the `!shop` with BP the changing form with the `!changeForm` command.
 * Is there a move relearner/TM's?
   * Lilycove City has both.
 * Can you add gen8 Pokemon?
@@ -81,6 +81,7 @@
   * In terms of involvement, we are not particularly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
+* Try the `!guide` command first.
 * HELP! I don't know where to go next!?
   * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
 * HELP! Where do I go next and the Emerald strategy guide isn't helping!?
@@ -139,6 +140,8 @@
   * links to this guide
 * `!map`
   * displays region map
+* `!vote`
+  * shows vote link for bot
 
 ### Party Management
 * `!nickname [party number] [nickname]` (alias: !nn)
@@ -169,6 +172,16 @@
   * example: "!dex Zigzagoon" = displays Zigzagoon's info
   * example 2: "!dex Zigzagoon shiny" = displays shiny Zigzagoon
   * example 3: "!dex Charizard form 1 shiny" = displays shiny Mega Charizard X
+* `!createTeam <team number between 1 and 10> [optional: team name]`
+  * create a new preset team from current party
+* `!setTeam <team number bor name>`
+  * replace current party with preset team
+* `!viewTeams`
+  * view all preset teams
+* `!deleteTeam <team number>`
+  * delete a preset team (does not release any Pokemon)
+* `!renameTeam <team number> <new team name`
+  * rename a team
 
 ### Player Management
 * `!profile [user]` (alias: !p)
