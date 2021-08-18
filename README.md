@@ -47,7 +47,7 @@
   * This bot is full Pokemon RPG experience on Discord where you play through a full length Pokemon game based on Pokemon Emerald. It includes exploration, battles, gyms, PVP, trading, Battle Tower, and more!
 * How do I save?
   * Game autosaves, you do not need to do anything.
-  * By default, you will have a separate save per server. If you want a singular global save, go to the server with your save file and do the command `!enableGlobalSave`.
+  * By default, you will have one global save. If you want separate save files per server, use `!disableGlobalSave`.
 * I'm confused on where to go.
   * Please see: [Game Guide](#Game-Guide)
 * How long did this take to make?
