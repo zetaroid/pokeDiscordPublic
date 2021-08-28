@@ -264,6 +264,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ![Galarian Starters](https://i.imgur.com/HdpgwX5.png)
 ### Pokemon Unite Celebration!
 ![Unite Event](https://i.imgur.com/1yInMJe.png)
+### Mewtwo Strikes Back!
+![Mewtwo Event](https://i.imgur.com/YiARAbb.png)
 
 ## Credits
 * Bot made entirely by Zetaroid
