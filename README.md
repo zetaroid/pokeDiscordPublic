@@ -266,6 +266,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ![Unite Event](https://i.imgur.com/1yInMJe.png)
 ### Mewtwo Strikes Back!
 ![Mewtwo Event](https://i.imgur.com/YiARAbb.png)
+### Journey to Hisui!
+![Hisui Event](https://i.imgur.com/qD8LyEO.png)
 
 ## Credits
 * Bot made entirely by Zetaroid
@@ -278,6 +280,9 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Shadow Mewtwo" by 1ofthe4rocketbros on the Pokemon Insurgence forums
 * "Armored Mewtwo" by Aboodie on the Pokemon Insurgence forums
 * "Hisuian Growlithe" by darklight177 on DeviantArt
+* "Hisuian Braviary" by onigashira_ginkaku on Danbooru
+* "Basculegion" by kiriaura on DeviantArt
+* "Wyrdeer" by NVSpheX on DeviantArt
 * "Primal Dialga" and "Primal Palkia" by TheMalevolentOne17 on DeviantArt
 
 ## Disclaimer
