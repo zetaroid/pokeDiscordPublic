@@ -285,6 +285,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Wyrdeer" by NVSpheX on DeviantArt
 * "Primal Dialga" and "Primal Palkia" by EmmaRoak on DeviantArt
 * "Painted Shiny Magikarp" by Pokefarm Q
+* "Hisuian Zoroark" and "Hisuian Zorua" sprites by kiriaura on DeviantArt
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
