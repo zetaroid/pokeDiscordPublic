@@ -287,6 +287,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Painted Shiny Magikarp" by PokeFarm Q
 * "Hisuian Zoroark" and "Hisuian Zorua" sprites by kiriaura on DeviantArt
 * "Christmas Torterra" by PokeFarm Q
+* "Hisuian Voltorb" sprite by QDylm on DeviantArt
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
