@@ -296,3 +296,6 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
 * Sprites for this bot are pulled from many various sources on the internet. All sprites are owned by their respective creators, and none are owned by this bot.
+
+## Privacy Policy
+* This bot stores only your Discord ID and username for the purpose of remembering who you are for your save file. No other data is stored, and no data is ever shared anywhere.
