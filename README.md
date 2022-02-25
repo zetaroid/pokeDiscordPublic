@@ -292,6 +292,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Beta Delibird" image by @RacieBeep on Twitter
 * "Gold Mega Rayquaza" sprites by DRAGON_DTC from Myuu
 * All "Valentine" day sprites including "Chocolate Meowstic" by PokeFarm Q
+* Hisui sprites by KingOfThe-X-Roads on DeviantArt
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
