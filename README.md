@@ -30,7 +30,7 @@
   * PVP
   * Battle Tower
   * Secret Bases
-* Majority of game is played command free after typing "!start". Interact with the world through emojis. Desktop/Mobile friendly!
+* Majority of game is played command free after typing "/start". Interact with the world through emojis. Desktop/Mobile friendly!
 
 ![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
 
@@ -38,7 +38,7 @@
 [![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokéNav Trailer")
 
 ## How To Play
-* Use command `!start` to start a session
+* Use command `/start` to start a session
 * React to emoji to play the game
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
@@ -54,8 +54,7 @@
   * I have been working on this since February 2021.
 * Is there PVP?
   * Yes! 
-  * For PVP against another user on your server, use `!battle @user`
-  * For matchmaking, use `!pvp`
+  * For PVP against another user on your server, use `/battle @user`
   * When participating in PVP, your Pokemon will temporarily be raised to level 100.
 * What is the shiny rate?
   * 1/200, and yes NPC trainers can have shiny Pokemon too (I'm sorry).
@@ -81,7 +80,7 @@
   * In terms of involvement, we are not particularly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
-* Try the `!guide` command first.
+* Try the `/guide` command first.
 * HELP! I don't know where to go next!?
   * I followed Pokemon Emerald very closely, please see this guide: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough
 * HELP! Where do I go next and the Emerald strategy guide isn't helping!?
@@ -115,134 +114,132 @@
   * I just beat the 8th gym!
     * Go to Route 128 and head for Ever Grande City and the Pokemon League
   * I beat the elite 4...now what?
-    * Take part in raids! They will pop up from time to time as you play. Use `!raid` to join an active one.
+    * Take part in raids! They will pop up from time to time as you play. Use `/raid` to join an active one.
     * Shiny hunt (1/200 odds, wow!)
     * Altering Cave (exchange 10 BP to change the Pokemon to any non-legendary in gen 1-7!)
     * Catch legendaries (hint: check out Slateport Harbor, Route 115, Route 127, Route 134, and Route 108)
     * Gym leader rematches (lv 70 and lv 100)
     * Take on a harder elite 4 for an extra challenge
     * Battle Tower (go to Slateport Harbor -> Battle Frontier -> Battle Tower)
-    * Create a secret base! Use `!secretPower` to create one. Furniture can be bought in the `!shop` in exchange for BP earned from raids/Battle Tower.
+    * Create a secret base! Use `/secret_power` to create one. Furniture can be bought in the `!shop` in exchange for BP earned from raids/Battle Tower.
 
 ## Commands:
 ### Main Commands
-* `!start` (alias: !s)
+* `/start`
   * start a new session. Will be active until AFK for 10 minutes (15 minutes in battle).
-* `!fly [location]` (alias: !f)
+* `/fly [location]`
   * fly to a given location
-  * example: "!f Littleroot Town"
+  * example: "/fly Littleroot Town"
   * *MUST HAVE BEEN TO THE LOCATION AND MUST HAVE RECEIVED HM FLY*
-* `!endSession` (alias: !es)
+* `/end_session`
   * ends your current seession
   * can only be used while in the overworld (not in battle or other menus)
-  * example: "!endSession"
-* `!guide`
+  * example: "/end_session"
+* `/guide`
   * links to this guide
-* `!map`
+* `/map`
   * displays region map
-* `!vote`
+* `/vote`
   * shows vote link for bot
 
 ### Party Management
-* `!nickname [party number] [nickname]` (alias: !nn)
+* `/nickname [party number] [nickname]`
   * sets a Pokemon's nickname
-  * example: "!nn 3 Kippy" = rename Pokemon in slot 3 in party to "Kippy"
-* `!swapMoves [party number] [move slot 1] [move slot 2]` (alias: !sm)
+  * example: "/nickname 3 Kippy" = rename Pokemon in slot 3 in party to "Kippy"
+* `/swap_moves [party number] [move slot 1] [move slot 2]`
   * swaps two of a Pokemon's move slots
-  * example: "!sm 3 2 4" = swaps moves in slot 2 and 4 for Pokemon in slot 3 of party
-* `!evolve [party number] [optional: pokemon to evolve into]`
+  * example: "/swap_moves 3 2 4" = swaps moves in slot 2 and 4 for Pokemon in slot 3 of party
+* `/evolve [party number] [optional: pokemon to evolve into]`
   * evolves a Pokemon capable of evolution
-  * example: "!evolve 2" = evolves the 2nd slot in your party if able to evolve
-  * example 2: "!evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
-* `!unevolve`
+  * example: "/evolve 2" = evolves the 2nd slot in your party if able to evolve
+  * example 2: "/evolve 2 Gallade" = evolves 2nd slot in your party into 'Gallade' if possible
+* `/unevolve`
   * unevolves a Pokemon capable of un-evolution
-  * example: "!unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
-* `!release [your party number to release]`
+  * example: "/unevolve 2" = unevolves the 2nd slot in your party if able to unevolve
+* `/release [your party number to release]`
   * releases a party Pokemon
-  * example: "!releasePartyPokemon 4" = releases the 4th Pokemon in your party
-* `!toggleForm <party number>`
+  * example: "/release 4" = releases the 4th Pokemon in your party
+* `/change_form <party number>`
   * changes the form for a given party Pokemon
-  * example: "!toggleForm 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
-* `!moveInfo [move name]` (alias: !mi)
+  * example: "change_form 3" = assuming Giratina in party slot 3, changes Giratina from "Normal Form" to "Origin Form"
+* `/move_info [move name]`
   * displays information about a move
-  * example: "!mi Tackle" = displays info for the move "Tackle"
-* `!dex <Pokemon name>`
+  * example: "/move_info Tackle" = displays info for the move "Tackle"
+* `/dex <Pokemon name>`
   * view a Pokemon's dex entry and where to find
   * add "shiny" or "distortion" to the end of command to view those sprites
-  * example: "!dex Zigzagoon" = displays Zigzagoon's info
-  * example 2: "!dex Zigzagoon shiny" = displays shiny Zigzagoon
-  * example 3: "!dex Charizard form 1 shiny" = displays shiny Mega Charizard X
-* `!createTeam <team number between 1 and 10> [optional: team name]`
+  * example: "/dex Zigzagoon" = displays Zigzagoon's info
+  * example 2: "/dex Zigzagoon shiny" = displays shiny Zigzagoon
+  * example 3: "/dex Charizard form 1 shiny" = displays shiny Mega Charizard X
+* `/create_team <team number between 1 and 10> [optional: team name]`
   * create a new preset team from current party
-* `!setTeam <team number bor name>`
+* `/set_team <team number bor name>`
   * replace current party with preset team
-* `!viewTeams`
+* `/teams`
   * view all preset teams
-* `!deleteTeam <team number>`
+* `/delete_team <team number>`
   * delete a preset team (does not release any Pokemon)
-* `!renameTeam <team number> <new team name`
+* `/rename_team <team number> <new team name`
   * rename a team
 
 ### Player Management
-* `!profile [user]` (alias: !p)
+* `/profile [user]`
   * displays a trainer's profile
-  * example: "!p @user"
-* `!trainerCard [user]` (alias: !tc)
+  * example: "/profile @user"
+* `/trainer_card [user]`
   * displays a trainer's trainer card
-  * example: "!tc @user"\
-* `!enableGlobalSave`
+  * example: "/trainer_card @user"\
+* `/enable_global_save`
   * if you use this command, the save file on that server will become a "global save" for you. This means that any server you play on will use this save file
   * this will NOT delete any save files
-* `!disableGlobalSave`
+* `/disable_global_save`
   * disables global save for you. All servers will have separate save files
   * this will NOT delete any save files
-* `!resetSave`
+* `/reset_save`
   * resets your save file PERMANENTLY
   * will prompt for confirmation before deleting
   * cannot be used while using a global save file
-  * example: "!resetSave"
-* `!setSprite <sprite>`
+  * example: "/reset_save"
+* `/set_sprite <sprite>`
   * set player trainer card sprite
   * options: male, female, default
-* `!setAlteringCave [Pokemon name]`
+* `/set_altering_cave [Pokemon name]`
   * set the Pokemon in Altering Cave to any non-legendary for 10 BP (earned from Battle Tower)
-  * example: "!setAlteringCave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (BP earned from Battle Tower)
-* `!secretPower`
+  * example: "/set_altering_cave Tyranitar" = sets Altering Cave to spawn Tyranitar at the cost of 10 BP (BP earned from Battle Tower)
+* `/secret_power`
   * creates a secret base
   * use when in the overworld
-* `!deleteBase`
+* `/delete_base`
   * delete your current secret base
   * use when not in an active session
-* `!shop [category]`
+* `/shop [category]`
   *  opens the BP shop (League Champions only!)
-  *  example: "!shop furniture"
-* `!buy <amount> <item name>`
+  *  example: "/shop furniture"
+* `/buy <item name> <amount> `
   * buy an item from the shop (League Champions only!)
-  * example: "!buy 1 mudkip doll"
+  * example: "/buy mudkip doll 1"
 
 ### PVP and Trading
-* `!trade [your party number to trade] [user to trade with]` (alias: !t)
+* `/trade [your party number to trade] [user to trade with]`
   * trade with another trainer on the server
-  * example: "!t 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
+  * example: "/trade 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
   * follow the bot's prompts to confirm trade
   * *YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
-* `!battle [user]` (alias: !b)
+* `/battle [user]`
   * battle another trainer on the server, other user must also use this command
-  * example: "!battle @user" = starts battle with user, other user must also use this command
-* `!pvp`
-  * match-make to find another user to PVP with
-* `!battleCopy [user]`
+  * example: "/battle @user" = starts battle with user, other user must also use this command
+* `/battle_copy [user]`
   * battle an NPC copy of a trainer on the server
-  * example: "!battleCopy @user"
-* `!raid`
+  * example: "/battle_copy @user"
+* `/raid`
   * join an active raid if one exists
-* `!raidInfo`
+* `/raid_info`
   * display status of current raid
-* `!event`
+* `/event`
   * view active event
-* `!viewBase <@user>`
+* `/view_base <@user>`
   * view a user's secret base
-  * example: "!viewBase @user"
+  * example: "/view_base @user"
 
 ## Legendary Calendar
 * after you beat the Elite 4 in Hoenn, a Mysterious Portal opens in the Abandoned Ship off of Route 108.
