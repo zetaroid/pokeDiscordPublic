@@ -220,9 +220,9 @@
   * example: "/buy mudkip doll 1"
 
 ### PVP and Trading
-* `/trade [your party number to trade] [user to trade with]`
+* `/trade [user to trade with]`
   * trade with another trainer on the server
-  * example: "/trade 2 @user" = requests a trade with the Pokemon in party slot 2 with @user
+  * example: "/trade @user" = requests a trade with the Pokemon in party slot 2 with @user
   * follow the bot's prompts to confirm trade
   * *YOU CAN ONLY TRADE WHEN A SESSION IS NOT ACTIVE*
 * `/battle [user]`
@@ -290,6 +290,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Gold Mega Rayquaza" sprites by DRAGON_DTC from Myuu
 * All "Valentine" day sprites including "Chocolate Meowstic" by PokeFarm Q
 * Hisui sprites by KingOfThe-X-Roads on DeviantArt
+* Gen 9 starter sprites by KingOfThe-X-Roads on DeviantArt
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
