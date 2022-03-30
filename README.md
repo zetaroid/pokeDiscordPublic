@@ -51,7 +51,7 @@
   * Game autosaves, you do not need to do anything.
   * By default, you will have one global save. If you want separate save files per server, use `/disable_global_save`.
 * I'm confused on where to go.
-  * Please see: [Game Guide](#Game-Guide) or use /guide.
+  * Please see: [Game Guide](#Game-Guide) or use `/guide`.
 * How long did this take to make?
   * I have been working on this since February 2021. Core mechanics took around 2 months but I have been updating ever since.
 * Is there PVP?
@@ -69,7 +69,7 @@
   * Although the mechanics are not in game, Mega forms and Gigantamax forms can be obtained by purchasing a Mega/Dynamax Stone from the `/shop` with BP the changing form with the `/change_form` command.
 * Is there a move relearner/TM's?
   * Lilycove City has both.
-* What are the /game_corner payouyts and odds?
+* What are the `/game_corner` payouyts and odds?
   * See: https://bulbapedia.bulbagarden.net/wiki/Mauville_Game_Corner for odds and payouts.
 * Can [insert request here] be added?
   * Maybe, maybe not, ask me though!
