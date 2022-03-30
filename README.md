@@ -45,13 +45,15 @@
 ## FAQ
 * What is this bot?
   * This bot is full Pokemon RPG experience on Discord where you play through a full length Pokemon game based on Pokemon Emerald. It includes exploration, battles, gyms, PVP, trading, Battle Tower, and more!
+* Does this bot make money in any way?
+  * NO! This bot is entirely free to play - no fees and no bribing you for votes. Play as much as you want and have fun!
 * How do I save?
   * Game autosaves, you do not need to do anything.
-  * By default, you will have one global save. If you want separate save files per server, use `!disableGlobalSave`.
+  * By default, you will have one global save. If you want separate save files per server, use `/disable_global_save`.
 * I'm confused on where to go.
-  * Please see: [Game Guide](#Game-Guide)
+  * Please see: [Game Guide](#Game-Guide) or use /guide.
 * How long did this take to make?
-  * I have been working on this since February 2021.
+  * I have been working on this since February 2021. Core mechanics took around 2 months but I have been updating ever since.
 * Is there PVP?
   * Yes! 
   * For PVP against another user on your server, use `/battle @user`
@@ -61,14 +63,14 @@
   * There are second form of shinies called "distortions" that have 1/10,000 odds.
 * Can I catch legendaries?
   * Yes. And you can shiny hunt them.
-* Can you catch gen 4-7 Pokemon?
-  * You can catch any non-legendary gen 1-7 Pokemon in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '!setAlteringCave' in exchange for 10 BP (BP is earned at the Battle Tower or from raids).
+* Can you catch gen 4-8 Pokemon?
+  * You can catch any non-legendary gen 1-8 Pokemon in Altering Cave after you beat the Elite 4. You can alter the Pokemon there with '/set_altering_cave' in exchange for 10 BP (BP is earned at the Battle Tower, from raids, or during events).
 * Are there Mega Evolutions/Z-moves/Dynamax?
-  * Although none of these are in game, Mega forms can be obtained by purchasing a Mega Stone from the `!shop` with BP the changing form with the `!changeForm` command.
+  * Although the mechanics are not in game, Mega forms and Gigantamax forms can be obtained by purchasing a Mega/Dynamax Stone from the `/shop` with BP the changing form with the `/change_form` command.
 * Is there a move relearner/TM's?
   * Lilycove City has both.
-* Can you add gen8 Pokemon?
-  * They are slowly being released as events.
+* What are the /game_corner payouyts and odds?
+  * See: https://bulbapedia.bulbagarden.net/wiki/Mauville_Game_Corner for odds and payouts.
 * Can [insert request here] be added?
   * Maybe, maybe not, ask me though!
 * Why doesn't [insert move here] work as it does in the main series?
@@ -77,6 +79,7 @@
 * Can I get help or get involved?
   * We have a [support server](https://discord.gg/HwYME4Vwj9) you can join to get help / contact the developer. 
   * The support server also has a channel for suggestions for the bot.
+  * If you want to help with creating JSON files for other regions, please let me know I could use help!
   * In terms of involvement, we are not particularly looking for development support, but definitely could use some help promoting the bot.
 
 ## Game Guide
