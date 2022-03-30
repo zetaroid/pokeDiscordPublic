@@ -144,6 +144,8 @@
   * displays region map
 * `/vote`
   * shows vote link for bot
+* `/game_corner`
+  * Enjoy the mini game recreated from the Mauville Game Corner! You can trade coins for prizes in the `/shop game corner`.
 
 ### Party Management
 * `/nickname [party number] [nickname]`
@@ -184,6 +186,8 @@
   * delete a preset team (does not release any Pokemon)
 * `/rename_team <team number> <new team name`
   * rename a team
+* `/super_train`
+  * At the cost of 20BP, train a Pokemon instantly to level 100 with IV's and EV's and nature.
 
 ### Player Management
 * `/profile [user]`
