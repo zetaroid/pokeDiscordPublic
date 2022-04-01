@@ -39,7 +39,7 @@
 
 ## How To Play
 * Use command `/start` to start a session
-* React to emoji to play the game
+* Use the on screen buttons to play
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
 ## FAQ
