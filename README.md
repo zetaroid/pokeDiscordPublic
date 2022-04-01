@@ -18,7 +18,7 @@
 * [Credits](#Credits)
 
 ## Features
-* Battle, catch, and trade Pokemon from across 7 generations including forms!
+* Battle, catch, and trade Pokemon from across all 9 generations including forms!
 * Explore the Hoenn region, earn badges, take on Team Magma/Aqua, become the champion, and save the region from despair!
 * A full RPG experience
 * PVP and matchmaking!
