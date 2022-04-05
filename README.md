@@ -35,7 +35,7 @@
 ![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
 
 ## Trailer (click the image)
-[![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=E7rX2d7W3XI "PokéNav Trailer")
+[![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=QzVNxIQBygw "PokéNav Trailer")
 
 ## How To Play
 * Use command `/start` to start a session
