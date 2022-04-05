@@ -32,7 +32,7 @@
   * Secret Bases
 * Majority of game is played command free after typing "/start". Interact with the world through emojis. Desktop/Mobile friendly!
 
-![PokéNav Banner](https://i.imgur.com/XGKNf9M.png)
+![PokéNav Banner](https://i.imgur.com/EMZ9RXY.png)
 
 ## Trailer (click the image)
 [![link to youtube trailer](https://i.imgur.com/BTRUOkh.png)](https://www.youtube.com/watch?v=QzVNxIQBygw "PokéNav Trailer")
