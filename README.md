@@ -69,7 +69,7 @@
   * Although the mechanics are not in game, Mega forms and Gigantamax forms can be obtained by purchasing a Mega/Dynamax Stone from the `/shop` with BP the changing form with the `/change_form` command.
 * Is there a move relearner/TM's?
   * Lilycove City has both.
-* What are the `/game_corner` payouyts and odds?
+* What are the `/game_corner` payouts and odds?
   * See: https://bulbapedia.bulbagarden.net/wiki/Mauville_Game_Corner for odds and payouts.
 * Can [insert request here] be added?
   * Maybe, maybe not, ask me though!
