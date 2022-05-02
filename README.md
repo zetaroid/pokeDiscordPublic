@@ -271,7 +271,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ### Mewtwo Strikes Back!
 ![Mewtwo Event](https://i.imgur.com/YiARAbb.png)
 ### Journey to Hisui!
-![Hisui Event](https://i.imgur.com/qD8LyEO.png)
+![Hisui Event](https://i.imgur.com/dvCHhmd.png)
 ### Gale of Darkness!
 ![Gale of Darkness](https://i.imgur.com/dtkAAWP.png)
 
