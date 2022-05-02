@@ -264,8 +264,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ![Pokemon Colosseum Event](https://i.imgur.com/2MqeNti.png)
 ### Rainbow Mirage Island Appears!
 ![Rainbow Mirage Island](https://i.imgur.com/HCd2r8N.png)
-### Galarian Starters are here!
-![Galarian Starters](https://i.imgur.com/HdpgwX5.png)
+### Valentine's Love!
+![Valentine Event](https://i.imgur.com/xYSK10k.png)
 ### Pokemon Unite Celebration!
 ![Unite Event](https://i.imgur.com/1yInMJe.png)
 ### Mewtwo Strikes Back!
