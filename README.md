@@ -272,6 +272,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ![Mewtwo Event](https://i.imgur.com/YiARAbb.png)
 ### Journey to Hisui!
 ![Hisui Event](https://i.imgur.com/qD8LyEO.png)
+### Gale of Darkness!
+![Gale of Darkness](https://i.imgur.com/dtkAAWP.png)
 
 ## Credits
 * Bot made entirely by Zetaroid
@@ -298,6 +300,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * All "Valentine" day sprites including "Chocolate Meowstic" by PokeFarm Q
 * Hisui sprites by KingOfThe-X-Roads on DeviantArt
 * Gen 9 starter sprites by KingOfThe-X-Roads on DeviantArt
+* Orre Map art by MoxieMooo on DeviantArt
+* Other Shadow sprites by u/Sparrows413 on Reddit
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
