@@ -299,7 +299,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * "Gold Mega Rayquaza" sprites by DRAGON_DTC from Myuu
 * All "Valentine" day sprites including "Chocolate Meowstic" by PokeFarm Q
 * Hisui sprites by KingOfThe-X-Roads on DeviantArt
-* Gen 9 starter sprites by KingOfThe-X-Roads on DeviantArt
+* Gen 9 sprites by KingOfThe-X-Roads on DeviantArt
 * Orre Map art by MoxieMooo on DeviantArt
 * Other Shadow sprites by u/Sparrows413 on Reddit
 
