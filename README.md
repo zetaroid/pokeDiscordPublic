@@ -278,6 +278,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 ## Credits
 * Bot made entirely by Zetaroid
 * Gen 6-8 sprites from Pokemon Showdown
+* Trainer sprites from Pokemon Showdown
 * "Pride Ninetales" sprite by @pixel.punks on Instagram
 * "Detective Pikachu" sprite by TheDarkOne2theLeft on DeviantArt
 * "Shadow Lugia" sprite by Shadowgate31 on DeviantArt
