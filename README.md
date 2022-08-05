@@ -275,7 +275,7 @@
 | 70     | 90% | 1/4500 |
 | 80      | 90% | 1/4000 |
 | 90     | 90% | 1/3500 |
-| 100+      | 90% | 1/3000 |
+| 100+      | 100% | 1/3000 |
 
 ## Events
 Limited time events sometimes will appear in the Hoenn region! See some of our past events below:
