@@ -261,8 +261,9 @@
 * these will change randomly every day.
 * this is the only way to find special alternative shiny Pokemon!
 * odds of the special shiny Pokemon increase as you defeat the swarming Pokemon (not catch or run!).
+
 | Number Defeated | Odds of Swarm Pokemon Appearing | Special Shiny Odds |
-| ------------------------- | ------------------------- | ------------------------- |
+| --- | --- | --- |
 | 0      | 50% | 1/8192 |
 | 10     | 50% | 1/7500 |
 | 20      | 50% | 1/7000 |
