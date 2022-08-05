@@ -261,6 +261,7 @@
 * after you beat the Elite 4 in Hoenn, swarming Pokemon alerts will appear on your overworld UI.
 * these will change randomly every day.
 * this is the only way to find special alternative shiny Pokemon!
+* shiny charm does NOT affect this
 * odds of the special shiny Pokemon increase as you defeat the swarming Pokemon (not catch or run!).
 
 | Number Defeated | Odds of Swarm Pokemon Appearing | Special Shiny Odds |
