@@ -256,6 +256,25 @@
 ### Odd Months
 ![odd months](https://i.imgur.com/SdNXuns.png)
 
+## Swarming Pokemon
+* after you beat the Elite 4 in Hoenn, swarming Pokemon alerts will appear on your overworld UI.
+* these will change randomly every day.
+* this is the only way to find special alternative shiny Pokemon!
+* odds of the special shiny Pokemon increase as you defeat the swarming Pokemon (not catch or run!).
+| Number Defeated | Odds of Swarm Pokemon Appearing | Special Shiny Odds |
+| ------------------------- | ------------------------- | ------------------------- |
+| 0      | 50% | 1/8192 |
+| 10     | 50% | 1/7500 |
+| 20      | 50% | 1/7000 |
+| 30     | 75% | 1/6500 |
+| 40      | 75% | 1/6000 |
+| 50     | 90% | 1/5500 |
+| 60      | 90% | 1/5000 |
+| 70     | 90% | 1/4500 |
+| 80      | 90% | 1/4000 |
+| 90     | 90% | 1/3500 |
+| 100+      | 90% | 1/3000 |
+
 ## Events
 Limited time events sometimes will appear in the Hoenn region! See some of our past events below:
 ### Dance Party in Orre
