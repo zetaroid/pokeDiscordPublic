@@ -14,6 +14,7 @@
   * [Player Management](#Player-Management)
   * [PVP and Trading](#PVP-and-Trading)
 * [Legendary Calendar for Abandoned Ship](#Legendary-Calendar)
+* [Swarms](#Swarming-Pokemon)
 * [Limited Time Events](#Events)
 * [Credits](#Credits)
 
@@ -266,9 +267,9 @@
 | --- | --- | --- |
 | 0      | 50% | 1/8192 |
 | 10     | 50% | 1/7500 |
-| 20      | 50% | 1/7000 |
-| 30     | 75% | 1/6500 |
-| 40      | 75% | 1/6000 |
+| 20      | 70% | 1/7000 |
+| 30     | 70% | 1/6500 |
+| 40      | 70% | 1/6000 |
 | 50     | 90% | 1/5500 |
 | 60      | 90% | 1/5000 |
 | 70     | 90% | 1/4500 |
