@@ -144,7 +144,7 @@
 * `/map`
   * displays region map
 * `/vote`
-  * shows vote link for bot
+  * shows vote link for bot, you can earn one BP per day from voting
 * `/game_corner`
   * Enjoy the mini game recreated from the Mauville Game Corner! You can trade coins for prizes in the `/shop game corner`.
 
@@ -172,6 +172,7 @@
   * displays information about a move
   * example: "/move_info Tackle" = displays info for the move "Tackle"
 * `/dex <Pokemon name>`
+  * leave blank to view dex summary
   * view a Pokemon's dex entry and where to find
   * add "shiny" or "distortion" to the end of command to view those sprites
   * example: "/dex Zigzagoon" = displays Zigzagoon's info
@@ -226,6 +227,10 @@
 * `/buy <item name> <amount> `
   * buy an item from the shop (League Champions only!)
   * example: "/buy mudkip doll 1"
+* `/toggle_surf_encounters`
+  * toggles surfing encounters on/off for land-based areas
+* `/encounter_counter <start, stop, reset, view>`
+  * keeps track of the number of encounters, mainly useful for tracking how long a shiny hunt takes
 
 ### PVP and Trading
 * `/trade [user to trade with]`
