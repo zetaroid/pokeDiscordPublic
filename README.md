@@ -44,7 +44,7 @@
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
 ## Known Issues
-* Secret base editing is temporality disabled as this bot does not request message intents. This is in progress of being reworked.
+* Secret base editing is temporarily disabled as this bot does not request message intents. This is in progress of being reworked.
 
 ## FAQ
 * What is this bot?
