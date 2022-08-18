@@ -258,9 +258,9 @@
 * after you beat the Elite 4 in Hoenn, a Mysterious Portal opens in the Abandoned Ship off of Route 108.
 * legendary Pokemon can be found in this ship and changes frequently!
 ### Even Months
-![even months](https://i.imgur.com/5QVxaeP.png)
+![even months](https://i.imgur.com/pi2DJm0.png)
 ### Odd Months
-![odd months](https://i.imgur.com/SdNXuns.png)
+![odd months](https://i.imgur.com/dUeDS2Q.png)
 
 ## Swarming Pokemon
 * after you beat the Elite 4 in Hoenn, swarming Pokemon alerts will appear on your overworld UI.
