@@ -307,6 +307,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 
 ## Credits
 * Bot made entirely by Zetaroid
+* Rayquaza mascot drawn by Rachel beatboxing#5511 on Discord for this bot
 * Gen 6-8 sprites from Pokemon Showdown
 * Trainer sprites from Pokemon Showdown
 * "Pride Ninetales" sprite by @pixel.punks on Instagram
