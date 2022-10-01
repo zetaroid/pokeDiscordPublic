@@ -338,6 +338,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * Beta Wooper by Head-of-Fades on DeviantArt
 * MissingNo artwork by @ackrostation on Twitter
 * Halloween costume sprites by PokeFarm Q
+* Halloween Persian and Halloween Braixen by Black Rabbit Illustrations - PokeFuseMe
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
