@@ -337,6 +337,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * Gen 2 Beta sprites by leparagon on DeviantArt, mjco on DeviantArt, and shykitty20 on DeviantArt
 * Beta Wooper by Head-of-Fades on DeviantArt
 * MissingNo artwork by @ackrostation on Twitter
+* Halloween costume sprites by PokeFarm Q
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
