@@ -43,9 +43,6 @@
 * Use the on screen buttons to play
 * The bot ends your session if you are inactive for a certain amount of time. While you are in battle, this time is 15 minutes, otherwise it is 10 minutes.
 
-## Known Issues
-* Secret base editing is temporarily disabled as this bot does not request message intents. This is in progress of being reworked.
-
 ## FAQ
 * What is this bot?
   * This bot is full Pokemon RPG experience on Discord where you play through a full length Pokemon game based on Pokemon Emerald. It includes exploration, battles, gyms, PVP, trading, Battle Tower, and more!
