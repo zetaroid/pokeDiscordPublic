@@ -338,6 +338,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * Halloween Persian and Halloween Braixen by Black Rabbit Illustrations - PokeFuseMe
 * Painter Smeragle sprite by PokeFarm Q
 * Siniscocoa, Santa Dragonite, and Jack Frost Flygon by PokeFarm Q
+* Iono Magnemite adapted from @VincenzoNova's art on Twitter
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
