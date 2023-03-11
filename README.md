@@ -339,6 +339,8 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * Painter Smeragle sprite by PokeFarm Q
 * Siniscocoa, Santa Dragonite, and Jack Frost Flygon by PokeFarm Q
 * Iono Magnemite adapted from @VincenzoNova's art on Twitter
+* Iron Leaves sprite by JordanosArt on DeviantArt
+* Walking Wake sprite by DracoDravige on DeviantArt
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
