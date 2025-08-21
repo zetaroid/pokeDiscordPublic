@@ -342,6 +342,7 @@ Limited time events sometimes will appear in the Hoenn region! See some of our p
 * Iono Magnemite adapted from @VincenzoNova's art on Twitter
 * Iron Leaves sprite by JordanosArt on DeviantArt
 * Walking Wake sprite by DracoDravige on DeviantArt
+* Alt Shiny Zekrom and Reshiram by https://lgbtqpixelart.tumblr.com/
 
 ## Disclaimer
 * This bot is in NO WAY endorsed or representive of Pokemon or Nintendo. Pokemon is owned solely by Nintendo.
